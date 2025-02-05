@@ -5145,3 +5145,76 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 01:56:21.346] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
 [05Feb2025 01:56:21.346] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
 [05Feb2025 01:56:21.346] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[05Feb2025 01:56:22.178] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[05Feb2025 01:56:22.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[05Feb2025 01:56:22.179] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[05Feb2025 01:56:22.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[05Feb2025 01:56:22.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[05Feb2025 01:56:22.180] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[05Feb2025 01:56:33.309] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[05Feb2025 01:56:33.309] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[05Feb2025 01:56:33.310] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[05Feb2025 01:56:33.310] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[05Feb2025 01:56:33.310] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[05Feb2025 01:56:33.310] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[05Feb2025 01:56:33.727] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[05Feb2025 01:56:33.728] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[05Feb2025 01:56:33.728] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[05Feb2025 01:56:33.728] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[05Feb2025 01:56:33.728] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[05Feb2025 01:56:33.729] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[05Feb2025 01:56:39.167] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[05Feb2025 01:56:39.167] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[05Feb2025 01:56:39.167] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[05Feb2025 01:56:39.168] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[05Feb2025 01:56:39.168] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[05Feb2025 01:56:39.168] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[05Feb2025 01:56:43.945] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[05Feb2025 01:56:43.946] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[05Feb2025 01:56:43.946] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[05Feb2025 01:56:43.946] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[05Feb2025 01:56:48.619] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[05Feb2025 01:56:48.619] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[05Feb2025 01:56:48.619] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[05Feb2025 01:56:48.619] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[05Feb2025 01:57:15.125] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
+[05Feb2025 01:57:15.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
+[05Feb2025 01:57:15.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
+[05Feb2025 01:57:15.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
+[05Feb2025 01:57:15.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
+[05Feb2025 01:57:15.126] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
+[05Feb2025 01:57:40.002] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[05Feb2025 01:57:40.003] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[05Feb2025 01:57:40.003] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[05Feb2025 01:57:40.003] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[05Feb2025 01:58:56.411] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Timed out
+[05Feb2025 01:58:56.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[05Feb2025 01:58:56.475] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Feb2025 01:59:53.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zeadra[/127.151.117.21:53271] logged in with entity id 7722 at (139.36361080580104, 71.0, 75.13300041921092)
+[05Feb2025 01:59:53.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra joined the game
+[05Feb2025 01:59:53.121] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
+[05Feb2025 02:00:14.674] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
+[05Feb2025 02:00:23.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Timed out
+[05Feb2025 02:00:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[05Feb2025 02:00:33.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Diamonds!]
+[05Feb2025 02:01:28.927] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zeadra[/127.151.117.21:40241] logged in with entity id 8157 at (139.36361080580104, 71.0, 75.13300041921092)
+[05Feb2025 02:01:28.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra joined the game
+[05Feb2025 02:01:29.014] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
+[05Feb2025 02:01:48.065] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
+[05Feb2025 02:02:59.057] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Timed out
+[05Feb2025 02:02:59.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[05Feb2025 02:03:40.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zeadra[/127.151.117.21:54169] logged in with entity id 9000 at (15.603544248132325, 67.0, 31.651136141930294)
+[05Feb2025 02:03:40.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra joined the game
+[05Feb2025 02:03:41.027] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
+[05Feb2025 02:04:02.988] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
+[05Feb2025 02:04:11.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Disconnected
+[05Feb2025 02:04:11.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[05Feb2025 02:04:53.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zeadra[/127.151.117.21:42083] logged in with entity id 9420 at (15.603544248132325, 67.0, 31.651136141930294)
+[05Feb2025 02:04:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra joined the game
+[05Feb2025 02:04:53.120] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
+[05Feb2025 02:05:12.416] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
+[05Feb2025 02:05:23.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Timed out
+[05Feb2025 02:05:23.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[05Feb2025 02:06:16.768] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zeadra[/127.151.117.21:46279] logged in with entity id 9722 at (18.280614683288924, 67.0, 27.49273048751783)
+[05Feb2025 02:06:16.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra joined the game
+[05Feb2025 02:06:16.854] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
