@@ -1652,6 +1652,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-04-05 23:47:06 +0000",
+      "minecraft:skeleton": "2025-04-09 02:06:53 +0000",
       "minecraft:spider": "2025-04-05 23:20:37 +0000",
       "minecraft:zombie": "2025-04-05 23:19:55 +0000"
     },
@@ -5269,9 +5270,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-09 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-09 01:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-09 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-09 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
     },
     "done": true
   },
