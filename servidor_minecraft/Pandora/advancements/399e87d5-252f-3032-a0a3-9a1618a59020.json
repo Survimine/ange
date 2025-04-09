@@ -5271,9 +5271,45 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_cabinet": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
+      "has_item_frame": "2025-04-09 01:58:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 02:08:04 +0000"
     },
     "done": true
   },
@@ -5283,27 +5319,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-09 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-09 02:12:45 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_boots": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_desk_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
     },
     "done": true
   },
@@ -5319,63 +5349,69 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+  "knightquest:recipes/misc/husk_leggings": {
     "criteria": {
-      "has_gate": "2025-04-09 02:45:57 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
+  "knightquest:recipes/misc/horn_helmet": {
     "criteria": {
-      "has_item": "2025-04-09 03:21:46 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+  "knightquest:recipes/misc/horn_chestplate": {
     "criteria": {
-      "has_item": "2025-04-09 03:03:59 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
+  "knightquest:recipes/misc/evoker_boots": {
     "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+  "knightquest:recipes/misc/husk_boots": {
     "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_table": {
+  "knightquest:recipes/misc/evoker_chestplate": {
     "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_shelf": {
+  "knightquest:recipes/misc/evoker_helmet": {
     "criteria": {
-      "has_birch_shelf": "2025-04-09 03:02:17 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+  "knightquest:recipes/misc/evoker_leggings": {
     "criteria": {
-      "has_item": "2025-04-09 03:03:59 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+  "knightquest:recipes/misc/husk_chestplate": {
     "criteria": {
-      "has_gate": "2025-04-09 02:45:57 +0000"
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
@@ -5385,51 +5421,27 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/husk_leggings": {
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
     "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+      "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
+      "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
+      "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
   "cfm:recipes/decorations/light_blue_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_nightstand": {
-    "criteria": {
-      "has_birch_nightstand": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_boots": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 02:08:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_table": {
-    "criteria": {
-      "has_birch_table": "2025-04-09 03:02:17 +0000"
     },
     "done": true
   },
@@ -5445,57 +5457,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/birch_blinds": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_chair": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_desk": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/purple_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/misc/birch_crafting_table": {
-    "criteria": {
-      "has_birch_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-04-09 02:59:32 +0000"
     },
     "done": true
   },
@@ -5505,27 +5469,9 @@
     },
     "done": true
   },
-  "variantvanillablocks:recipes/decorations/birch_composter": {
-    "criteria": {
-      "has_birch_slab": "2025-04-09 03:21:46 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/horn_helmet": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/black_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_cupboard": {
-    "criteria": {
-      "has_birch_cupboard": "2025-04-09 03:02:17 +0000"
     },
     "done": true
   },
@@ -5535,117 +5481,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_chestplate": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 02:08:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_bedside_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_crate": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_side_table": {
-    "criteria": {
-      "has_birch_side_table": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
-    "criteria": {
-      "has_bark_mushroom": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_counter": {
-    "criteria": {
-      "has_birch_counter": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/decorations/dark_oak_composter": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-09 03:27:34 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/horn_chestplate": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_coffee_table": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/ebony_wood": {
-    "criteria": {
-      "has_log": "2025-04-09 02:57:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 02:08:04 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_corner_trim": {
-    "criteria": {
-      "has_birch_corner_trim": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_desk": {
-    "criteria": {
-      "has_birch_desk": "2025-04-09 03:02:17 +0000"
     },
     "done": true
   },
@@ -5667,87 +5511,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-04-09 03:21:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
-    "criteria": {
-      "has_item": "2025-04-09 03:27:34 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_leggings": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 02:08:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_couch": {
-    "criteria": {
-      "has_birch_couch": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_rail_bridge": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_boots": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
-    "criteria": {
-      "has_item": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_boots": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
@@ -5763,99 +5535,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_birch_crate": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/birch_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-04-09 01:58:29 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_park_bench": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_cabinet": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/white_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_fancy_bed": {
-    "criteria": {
-      "has_birch_fancy_bed": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_pillar_trim": {
-    "criteria": {
-      "has_birch_pillar_trim": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_chestplate": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/misc/birch_chest": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_helmet": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/red_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-09 02:12:45 +0000"
     },
     "done": true
   },
@@ -5871,63 +5559,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-04-09 02:12:45 +0000"
-    },
-    "done": true
-  },
-  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
-    "criteria": {
-      "has_orange_bark_mushroom": "2025-04-09 03:27:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/pink_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/birch_dining_bench": {
-    "criteria": {
-      "has_birch_dining_bench": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/birch_chair": {
-    "criteria": {
-      "has_birch_chair": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_desk": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_chair": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
     },
     "done": true
   },
@@ -5943,45 +5583,9 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/birch_log_bridge_middle": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/cyan_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_birch_table": {
-    "criteria": {
-      "has_planks": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-04-09 03:10:48 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/birch_park_bench": {
-    "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/evoker_leggings": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
@@ -5991,9 +5595,357 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-09 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-04-09 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-09 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-04-09 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_wood": {
+    "criteria": {
+      "has_log": "2025-04-09 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-04-09 02:57:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
+    "criteria": {
+      "has_bark_mushroom": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-09 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-04-09 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_crafting_table": {
+    "criteria": {
+      "has_birch_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:02:17 +0000"
     },
     "done": true
   },
@@ -6015,45 +5967,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/ebony_planks": {
-    "criteria": {
-      "has_log": "2025-04-09 02:57:19 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_helmet": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 02:08:04 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_ghost": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-09 03:12:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
-    "criteria": {
-      "has_oxeye_daisy": "2025-04-09 02:59:32 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/stone_bridge_pier": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:03:59 +0000"
     },
     "done": true
   },
@@ -6063,9 +5979,123 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+  "mcwbridges:recipes/rope_birch_bridge": {
     "criteria": {
-      "has_log": "2025-04-09 02:59:06 +0000"
+      "has_planks": "2025-04-09 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-09 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-09 03:10:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-09 03:12:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-04-09 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/birch_composter": {
+    "criteria": {
+      "has_birch_slab": "2025-04-09 03:21:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-04-09 03:21:46 +0000"
     },
     "done": true
   },
@@ -6075,51 +6105,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 02:08:04 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/husk_chestplate": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
-    "criteria": {
-      "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/horn_leggings": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
-    },
-    "done": true
-  },
-  "mcwbridges:recipes/rope_birch_bridge": {
-    "criteria": {
-      "has_planks": "2025-04-09 03:02:17 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-04-09 03:21:46 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/magenta_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-09 02:45:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/lime_picket_gate": {
-    "criteria": {
-      "has_gate": "2025-04-09 02:45:57 +0000"
     },
     "done": true
   },
@@ -6129,9 +6117,21 @@
     },
     "done": true
   },
-  "mcwbridges:recipes/stone_brick_bridge": {
+  "variantvanillablocks:recipes/decorations/dark_oak_composter": {
     "criteria": {
-      "has_planks": "2025-04-09 03:03:59 +0000"
+      "has_dark_oak_slab": "2025-04-09 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-09 03:27:34 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-04-09 03:27:44 +0000"
     },
     "done": true
   },
