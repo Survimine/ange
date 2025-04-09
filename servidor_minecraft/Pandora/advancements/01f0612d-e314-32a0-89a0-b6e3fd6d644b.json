@@ -5202,5 +5202,11 @@
     },
     "done": true
   },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-09 02:03:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -5269,5 +5269,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-09 01:58:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
