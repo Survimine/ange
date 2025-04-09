@@ -4684,3 +4684,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Apr2025 20:18:40.313] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14740, l='ServerLevel[Pandora]', x=-283.21, y=83.00, z=1654.26] died, message: 'Unemployed was incinerated by Fire Dragon'
 [09Apr2025 20:18:45.171] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/14818, l='ServerLevel[Pandora]', x=-327.11, y=75.00, z=1624.51] died, message: 'Farmer hit the ground too hard whilst trying to escape Fire Dragon'
 [09Apr2025 20:21:28.056] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[09Apr2025 20:45:21.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
