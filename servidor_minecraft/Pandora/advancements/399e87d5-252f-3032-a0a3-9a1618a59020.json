@@ -6139,87 +6139,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2025-04-09 19:57:57 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bow_chestplate": {
-    "criteria": {
-      "has_water_bucket": "2025-04-09 20:36:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-04-09 19:57:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-04-09 19:58:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-09 20:13:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bow_helmet": {
-    "criteria": {
-      "has_water_bucket": "2025-04-09 20:36:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_leggings": {
-    "criteria": {
-      "has_item": "2025-04-09 20:13:43 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bow_leggings": {
-    "criteria": {
-      "has_water_bucket": "2025-04-09 20:36:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_helmet": {
-    "criteria": {
-      "has_item": "2025-04-09 20:13:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-09 19:58:48 +0000"
     },
     "done": true
   },
@@ -6229,45 +6151,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-04-09 20:12:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-04-09 20:36:55 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2025-04-09 20:44:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-04-09 19:57:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ice_from_freezing": {
-    "criteria": {
-      "has_water": "2025-04-09 20:36:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-04-09 19:57:57 +0000"
     },
     "done": true
   },
@@ -6277,15 +6163,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
+      "has_any_ingredient": "2025-04-09 19:57:52 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/bow_boots": {
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
-      "has_water_bucket": "2025-04-09 20:36:55 +0000"
+      "has_potato": "2025-04-09 19:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-09 19:57:57 +0000"
     },
     "done": true
   },
@@ -6295,15 +6187,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "has_item": "2025-04-09 20:13:43 +0000"
+      "has_potato": "2025-04-09 19:57:57 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_axe": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
+      "onion": "2025-04-09 19:58:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 19:58:48 +0000"
     },
     "done": true
   },
@@ -6313,39 +6211,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+  "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_red_boots": {
-    "criteria": {
-      "has_item": "2025-04-09 20:13:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-09 19:57:57 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
-    "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2025-04-09 20:42:35 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-09 19:57:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-04-09 20:12:39 +0000"
+      "has_onion": "2025-04-09 19:58:48 +0000"
     },
     "done": true
   },
@@ -6355,15 +6223,147 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-09 20:12:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-04-09 20:12:39 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "iceandfire:iceandfire/kill_deathworm": {
     "criteria": {
-      "has_onion": "2025-04-09 19:58:48 +0000"
+      "killed_fire_dragon": "2025-04-09 20:13:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 20:13:43 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_chestplate": {
+    "criteria": {
+      "has_water_bucket": "2025-04-09 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_helmet": {
+    "criteria": {
+      "has_water_bucket": "2025-04-09 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_leggings": {
+    "criteria": {
+      "has_water_bucket": "2025-04-09 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-09 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-04-09 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bow_boots": {
+    "criteria": {
+      "has_water_bucket": "2025-04-09 20:36:55 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2025-04-09 20:42:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-04-09 20:44:21 +0000"
     },
     "done": true
   },
