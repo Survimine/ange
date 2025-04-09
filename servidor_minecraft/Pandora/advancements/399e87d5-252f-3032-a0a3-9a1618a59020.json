@@ -4408,5 +4408,353 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/dark_oak_barrel": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-04-09 01:21:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_park_bench": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-09 01:19:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/dark_oak_crafting_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/cyan_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_cyan_dye]": "2025-04-09 01:23:56 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/purple_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_purple_dye]": "2025-04-09 01:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_log": "2025-04-09 01:21:11 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/dark_oak_chest": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_bookshelf": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_dark_oak_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2025-04-09 01:23:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-04-09 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/dark_oak_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
