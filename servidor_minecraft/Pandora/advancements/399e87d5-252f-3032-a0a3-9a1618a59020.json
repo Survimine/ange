@@ -5325,6 +5325,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-04-09 03:21:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
     "criteria": {
       "has_item": "2025-04-09 03:03:59 +0000"
@@ -5499,6 +5505,12 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/decorations/birch_composter": {
+    "criteria": {
+      "has_birch_slab": "2025-04-09 03:21:46 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_helmet": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
@@ -5646,6 +5658,12 @@
   "cfm:recipes/decorations/crimson_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-04-09 03:21:46 +0000"
     },
     "done": true
   },
@@ -5925,6 +5943,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-09 03:10:48 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_park_bench": {
     "criteria": {
       "has_log": "2025-04-09 02:59:06 +0000"
@@ -5997,6 +6021,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-09 03:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-04-09 02:59:32 +0000"
@@ -6018,6 +6048,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2025-04-09 02:59:06 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-04-09 03:21:46 +0000"
     },
     "done": true
   },
@@ -6051,6 +6087,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-04-09 03:21:46 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
@@ -6060,6 +6102,12 @@
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_gate": "2025-04-09 02:45:57 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-04-09 03:21:46 +0000"
     },
     "done": true
   },

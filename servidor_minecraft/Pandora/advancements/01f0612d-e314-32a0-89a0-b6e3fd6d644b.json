@@ -5225,6 +5225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-09 03:11:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-04-09 02:39:06 +0000"
@@ -5279,6 +5285,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-09 03:12:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
@@ -5294,6 +5306,12 @@
   "cfm:recipes/decorations/stripped_mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/apply_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_bone_meal": "2025-04-09 03:11:25 +0000"
     },
     "done": true
   },
@@ -5501,6 +5519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-09 03:11:25 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2025-04-09 02:39:06 +0000"
@@ -5564,6 +5588,12 @@
   "cfm:recipes/decorations/black_cooler": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-09 03:10:29 +0000"
     },
     "done": true
   },
@@ -5657,6 +5687,12 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/yellow_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_yellow_dye]": "2025-04-09 03:22:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_mail_box": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
@@ -5678,6 +5714,12 @@
   "cfm:recipes/decorations/white_cooler": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-09 03:12:34 +0000"
     },
     "done": true
   },
