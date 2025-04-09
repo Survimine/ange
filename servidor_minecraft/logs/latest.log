@@ -8849,3 +8849,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Apr2025 01:57:30.362] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
 [09Apr2025 01:57:30.362] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
 [09Apr2025 02:24:59.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Spelunkage]
+[09Apr2025 02:33:10.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 was slain by Zombie
+[09Apr2025 02:33:27.539] [Server thread/INFO] [do_a_barrel_roll/]: Client of Angelitrona12 accepted server config.
+[09Apr2025 02:34:13.231] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09Apr2025 02:34:15.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forager'/26795, l='ServerLevel[Pandora]', x=171.51, y=75.00, z=1846.45] died, message: 'Forager was slain by Zombie'
+[09Apr2025 02:34:16.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[09Apr2025 02:35:26.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Teleported Angelitrona12 to 119.500000, 28.000000, 1233.500000]
+[09Apr2025 02:35:57.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
