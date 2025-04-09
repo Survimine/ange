@@ -1569,6 +1569,7 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:amaranth_grassland": "2025-04-05 23:20:32 +0000",
+      "biomeswevegone:ebony_woods": "2025-04-09 01:32:09 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-05 23:17:11 +0000",
       "biomeswevegone:bayou": "2025-04-05 23:17:30 +0000"
     },
@@ -2045,6 +2046,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:vindicator": "2025-04-05 23:58:17 +0000",
+      "minecraft:spider": "2025-04-09 01:33:50 +0000",
       "minecraft:witch": "2025-04-05 23:35:38 +0000"
     },
     "done": false
@@ -5047,9 +5049,45 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-09 01:34:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_boots": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-09 01:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-09 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-04-09 01:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
     },
     "done": true
   },
@@ -5059,9 +5097,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2025-04-09 01:25:48 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-04-09 01:16:30 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-09 01:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
     },
     "done": true
   },
