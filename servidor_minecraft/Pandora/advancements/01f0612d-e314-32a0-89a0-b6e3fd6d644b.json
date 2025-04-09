@@ -386,6 +386,7 @@
       "minecraft:forest": "2025-04-05 23:11:47 +0000",
       "minecraft:jungle": "2025-04-06 00:16:11 +0000",
       "minecraft:windswept_savanna": "2025-04-05 23:16:25 +0000",
+      "minecraft:savanna": "2025-04-09 01:44:53 +0000",
       "minecraft:plains": "2025-04-06 00:10:53 +0000"
     },
     "done": false
@@ -1568,6 +1569,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:ironwood_gour": "2025-04-09 01:41:46 +0000",
       "biomeswevegone:amaranth_grassland": "2025-04-05 23:20:32 +0000",
       "biomeswevegone:ebony_woods": "2025-04-09 01:32:09 +0000",
       "biomeswevegone:allium_shrubland": "2025-04-05 23:17:11 +0000",
@@ -3563,6 +3565,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_stables": "2025-04-09 01:37:43 +0000",
       "entered_pirate_ship": "2025-04-05 23:44:50 +0000"
     },
     "done": false
@@ -5079,15 +5082,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 01:36:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 01:36:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/foragers_table": {
     "criteria": {
       "has_mushrooms": "2025-04-09 01:30:11 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 01:36:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 01:36:40 +0000"
     },
     "done": true
   },
@@ -5100,6 +5127,12 @@
   "knightquest:recipes/misc/creeper_leggings": {
     "criteria": {
       "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-09 01:36:40 +0000"
     },
     "done": true
   },

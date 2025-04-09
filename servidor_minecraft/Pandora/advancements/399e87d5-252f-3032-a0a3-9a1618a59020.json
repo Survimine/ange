@@ -3978,6 +3978,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_stables": "2025-04-09 01:37:16 +0000",
       "entered_pirate_ship": "2025-04-05 23:57:25 +0000"
     },
     "done": false
@@ -4408,6 +4409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
@@ -4417,6 +4424,42 @@
   "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
       "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_white_wool": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-09 01:39:22 +0000"
     },
     "done": true
   },
@@ -4444,15 +4487,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_park_bench": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
     },
     "done": true
   },
@@ -4474,15 +4541,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-09 01:39:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/jacaranda_stairs": {
     "criteria": {
       "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_white_wool": "2025-04-09 01:36:34 +0000"
     },
     "done": true
   },
@@ -4498,9 +4589,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/path_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-09 01:40:00 +0000"
     },
     "done": true
   },
@@ -4516,15 +4619,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-09 01:39:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/path_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-09 01:39:22 +0000"
+    },
+    "done": true
+  },
+  "hangglider:recipes/tools/glider_wing": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/misc/dark_oak_crafting_table": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
     },
     "done": true
   },
@@ -4552,15 +4691,51 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-09 01:39:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
     "criteria": {
       "has_jacaranda_planks": "2025-04-09 01:21:28 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/squire_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-09 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
     },
     "done": true
   },
@@ -4588,9 +4763,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/conquistador_boots": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-09 01:39:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:39:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
     },
     "done": true
   },
@@ -4612,6 +4817,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/conquistador_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-09 01:28:54 +0000"
@@ -4621,6 +4838,36 @@
   "biomeswevegone:recipes/redstone/jacaranda_button": {
     "criteria": {
       "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet2": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-09 01:39:22 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-09 01:36:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:39:24 +0000"
     },
     "done": true
   },
@@ -4642,9 +4889,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/path_boots": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/veteran_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_white_wool": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_white_wool": "2025-04-09 01:36:34 +0000"
     },
     "done": true
   },
@@ -4660,9 +4937,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-09 01:39:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/jacaranda_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-09 01:21:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:39:24 +0000"
     },
     "done": true
   },
@@ -4720,6 +5015,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-09 01:40:54 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
@@ -4729,6 +5030,24 @@
   "cfm:recipes/decorations/dark_oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-09 01:36:34 +0000"
     },
     "done": true
   },
@@ -4744,9 +5063,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-09 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-04-09 01:36:34 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
     "criteria": {
       "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-04-09 01:20:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-04-09 01:39:22 +0000"
     },
     "done": true
   },
@@ -4756,15 +5105,63 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-09 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-09 01:39:32 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
     },
     "done": true
   },
+  "knightquest:recipes/misc/conquistador_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-09 01:36:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-09 01:40:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-09 01:39:24 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_charcoal": "2025-04-09 01:39:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-04-09 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-04-09 01:40:54 +0000"
     },
     "done": true
   },
