@@ -6298,6 +6298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-09 23:46:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-04-09 23:26:33 +0000"
@@ -6328,6 +6334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-09 23:46:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-04-09 23:27:30 +0000"
@@ -6346,6 +6358,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dye_cyan_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-04-09 23:46:24 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/door_mat": {
     "criteria": {
       "has_wheat": "2025-04-09 23:26:33 +0000"
@@ -6355,6 +6373,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-04-09 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-09 23:46:24 +0000"
     },
     "done": true
   },
@@ -6385,6 +6409,18 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-04-09 23:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-04-09 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_cyan_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-04-09 23:46:24 +0000"
     },
     "done": true
   },
@@ -6421,6 +6457,18 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2025-04-09 23:33:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2025-04-09 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-09 23:46:24 +0000"
     },
     "done": true
   },
