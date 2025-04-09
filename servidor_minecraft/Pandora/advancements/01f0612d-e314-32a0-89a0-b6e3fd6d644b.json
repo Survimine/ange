@@ -5046,9 +5046,51 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-04-09 01:16:30 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/jacaranda_wood": {
     "criteria": {
       "has_log": "2025-04-09 01:17:32 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_log": "2025-04-09 01:17:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-09 01:23:40 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
+    "criteria": {
+      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2025-04-09 01:25:48 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/foragers_table": {
+    "criteria": {
+      "has_mushrooms": "2025-04-09 01:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-09 01:30:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-09 01:33:56 +0000"
     },
     "done": true
   },
@@ -5064,19 +5106,31 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-04-09 01:30:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-09 01:23:40 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/creeper_chestplate": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_leggings": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/creeper_helmet": {
+    "criteria": {
+      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-09 01:34:28 +0000"
     },
@@ -5094,21 +5148,9 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/decorations/foragers_table": {
-    "criteria": {
-      "has_mushrooms": "2025-04-09 01:30:11 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-04-09 01:36:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 01:34:28 +0000"
     },
     "done": true
   },
@@ -5118,51 +5160,45 @@
     },
     "done": true
   },
-  "biomeswevegone:recipes/building_blocks/jacaranda_planks": {
-    "criteria": {
-      "has_log": "2025-04-09 01:17:32 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/creeper_leggings": {
-    "criteria": {
-      "has_gunpowder": "2025-04-09 01:34:28 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-04-09 01:36:40 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/misc/orange_dye_from_bwg_tag": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_orange_dye]": "2025-04-09 01:25:48 +0000"
+      "iron_chestplate": "2025-04-09 01:49:32 +0000"
     },
     "done": true
   },
-  "biomeswevegone:recipes/misc/magenta_dye_from_bwg_tag": {
+  "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
-      "TagKey[minecraft:item / biomeswevegone:dye/makes_magenta_dye]": "2025-04-09 01:16:30 +0000"
+      "has_iron_helmet": "2025-04-09 01:49:33 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/creeper_helmet": {
+  "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
-      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+      "has_the_recipe": "2025-04-09 01:49:33 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_item": "2025-04-09 01:33:56 +0000"
+      "obsidian": "2025-04-09 01:49:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_gunpowder": "2025-04-09 01:34:28 +0000"
+      "has_obsidian": "2025-04-09 01:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-09 01:49:54 +0000"
     },
     "done": true
   },
