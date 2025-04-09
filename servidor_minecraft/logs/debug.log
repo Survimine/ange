@@ -21363,3 +21363,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Apr2025 02:35:57.080] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [09Apr2025 02:36:17.522] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
 [09Apr2025 02:36:17.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[09Apr2025 02:41:17.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[09Apr2025 02:41:17.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[09Apr2025 02:43:18.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra moved wrongly!
+[09Apr2025 02:43:24.058] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[09Apr2025 02:43:25.686] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[09Apr2025 02:43:26.285] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[09Apr2025 02:43:26.969] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[09Apr2025 02:46:17.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[09Apr2025 02:46:17.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[09Apr2025 02:47:30.479] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

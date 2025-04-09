@@ -2928,6 +2928,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-04-09 02:44:34 +0000",
       "bread": "2025-04-05 23:39:27 +0000",
       "cooked_salmon": "2025-04-05 23:57:09 +0000"
     },
@@ -5205,9 +5206,33 @@
     },
     "done": true
   },
+  "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_door": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-09 02:08:10 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
     },
     "done": true
   },
@@ -5238,6 +5263,48 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-09 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_crafting_table": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_fence": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_button": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/jacaranda_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/jacaranda_bookshelf": {
+    "criteria": {
+      "has_jacaranda_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/jacaranda_sign": {
+    "criteria": {
+      "has_planks": "2025-04-09 02:39:06 +0000"
     },
     "done": true
   },
