@@ -8862,3 +8862,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Apr2025 03:10:43.281] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [09Apr2025 03:12:34.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Who You Gonna Call?]
 [09Apr2025 03:29:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [A Seedy Place]
+[09Apr2025 03:30:20.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/41793, l='ServerLevel[Pandora]', x=114.50, y=-1.00, z=1268.50]
+[09Apr2025 03:30:24.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/41801, l='ServerLevel[Pandora]', x=114.50, y=-1.00, z=1268.50]

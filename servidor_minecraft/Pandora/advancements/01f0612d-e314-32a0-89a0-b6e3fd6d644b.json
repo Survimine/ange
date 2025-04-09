@@ -5213,15 +5213,51 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/jacaranda_slab": {
     "criteria": {
       "has_planks": "2025-04-09 02:39:06 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5243,9 +5279,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5267,6 +5315,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/redstone/jacaranda_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-09 02:39:06 +0000"
@@ -5276,6 +5330,12 @@
   "cfm:recipes/decorations/stripped_spruce_mail_box": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5297,9 +5357,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-04-09 02:08:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5321,6 +5399,26 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2025-04-09 03:32:09 +0000",
+      "tomato": "2025-04-09 03:32:16 +0000",
+      "wheat": "2025-04-09 03:29:25 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2025-04-09 02:03:05 +0000"
@@ -5330,6 +5428,18 @@
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5345,9 +5455,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-04-09 02:10:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5369,9 +5491,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5381,15 +5515,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/red_cooler": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5423,6 +5581,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-09 02:07:35 +0000"
@@ -5432,6 +5596,12 @@
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-09 03:28:53 +0000"
     },
     "done": true
   },
@@ -5471,6 +5641,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/yellow_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_cooler": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
@@ -5480,6 +5656,12 @@
   "biomeswevegone:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5501,9 +5683,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2025-04-09 03:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-09 02:51:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5525,9 +5719,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/decorations/jacaranda_fence": {
     "criteria": {
       "has_planks": "2025-04-09 02:39:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5543,9 +5749,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5567,9 +5791,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/magenta_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5579,9 +5815,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5597,9 +5845,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-04-09 02:58:21 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5657,6 +5923,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_grill_cooking": {
     "criteria": {
       "has_beef": "2025-04-09 02:51:26 +0000"
@@ -5681,9 +5959,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_mail_box": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },
@@ -5729,6 +6019,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-09 03:29:25 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
@@ -5759,6 +6055,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_cooler": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
@@ -5768,6 +6076,12 @@
   "cfm:recipes/decorations/light_gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-04-09 02:53:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2025-04-09 03:28:40 +0000"
     },
     "done": true
   },

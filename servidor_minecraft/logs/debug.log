@@ -21498,3 +21498,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Apr2025 03:29:22.856] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=99, y=67, z=1387}) doesn't have enough leaves around top most log
 [09Apr2025 03:29:23.762] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=98, y=67, z=1385}) doesn't have enough leaves around top most log
 [09Apr2025 03:29:25.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [A Seedy Place]
+[09Apr2025 03:30:20.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/41793, l='ServerLevel[Pandora]', x=114.50, y=-1.00, z=1268.50]
+[09Apr2025 03:30:24.190] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/41801, l='ServerLevel[Pandora]', x=114.50, y=-1.00, z=1268.50]
+[09Apr2025 03:30:58.324] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=74, y=67, z=1264}) doesn't have enough leaves around top most log
+[09Apr2025 03:31:17.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[09Apr2025 03:31:17.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[09Apr2025 03:36:17.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[09Apr2025 03:36:17.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[09Apr2025 03:37:11.672] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=61, y=64, z=1262}) doesn't have enough leaves around top most log

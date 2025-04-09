@@ -5589,6 +5589,12 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/decorations/dark_oak_composter": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-09 03:27:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/horn_chestplate": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
@@ -5676,6 +5682,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-09 03:27:34 +0000"
     },
     "done": true
   },
@@ -5862,6 +5874,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-09 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/orange_dye_from_orange_bark_mushroom": {
+    "criteria": {
+      "has_orange_bark_mushroom": "2025-04-09 03:27:44 +0000"
     },
     "done": true
   },
