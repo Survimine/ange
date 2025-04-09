@@ -1508,9 +1508,10 @@
       "granite": "2025-04-05 23:30:07 +0000",
       "tuff": "2025-04-09 01:53:35 +0000",
       "cobbled_deepslate": "2025-04-05 23:44:47 +0000",
+      "lapis": "2025-04-09 02:24:59 +0000",
       "andesite": "2025-04-05 23:34:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
@@ -5276,9 +5277,39 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/creeper_boots": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
@@ -5288,9 +5319,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/horn_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
@@ -5300,9 +5343,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/evoker_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-09 01:58:29 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/evoker_helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
@@ -5318,6 +5385,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/evoker_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/creeper_helmet": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:08:04 +0000"
@@ -5327,6 +5400,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-09 02:08:04 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/horn_leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-09 02:24:59 +0000"
     },
     "done": true
   },
