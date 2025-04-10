@@ -3080,3 +3080,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 22:26:20.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2400ms or 48 ticks behind
 [10Apr2025 22:26:40.936] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
 [10Apr2025 22:29:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [It Belongs in a Museum]
+[10Apr2025 22:39:07.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Book of Monsters]
+[10Apr2025 22:39:51.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/2514, l='ServerLevel[Pandora]', x=28.24, y=63.00, z=1695.77] died, message: 'Cleric was slain by Zombie Villager'
