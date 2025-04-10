@@ -382,6 +382,7 @@
       "minecraft:sparse_jungle": "2025-04-05 23:33:15 +0000",
       "minecraft:lukewarm_ocean": "2025-04-05 23:21:17 +0000",
       "minecraft:river": "2025-04-05 23:14:21 +0000",
+      "minecraft:dripstone_caves": "2025-04-10 00:31:42 +0000",
       "minecraft:swamp": "2025-04-05 23:27:24 +0000",
       "minecraft:forest": "2025-04-05 23:11:47 +0000",
       "minecraft:jungle": "2025-04-06 00:16:11 +0000",
@@ -6265,6 +6266,12 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/misc/mangrove_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
@@ -6276,6 +6283,12 @@
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
     },
     "done": true
+  },
+  "cavernous:getting_to_the_point": {
+    "criteria": {
+      "minecraft:dripstone_caves": "2025-04-10 00:31:42 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
@@ -6313,6 +6326,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-04-10 00:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
@@ -6325,9 +6344,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-04-10 00:29:23 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dye_magenta_picket_gate": {
     "criteria": {
       "has_dye": "2025-04-09 23:33:48 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/cartography_table": {
+    "criteria": {
+      "has_the_recipe": "2025-04-10 00:30:00 +0000"
     },
     "done": true
   },
@@ -6349,6 +6380,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-10 00:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-04-09 23:26:33 +0000"
@@ -6358,6 +6395,18 @@
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-04-09 23:27:30 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/spruce_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-10 00:29:54 +0000"
     },
     "done": true
   },
@@ -6394,6 +6443,12 @@
   "knightquest:recipes/misc/bat_chestplate": {
     "criteria": {
       "has_dripstone_block": "2025-04-10 00:13:21 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/warped_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
     },
     "done": true
   },
@@ -6445,6 +6500,12 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/misc/jungle_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2025-04-10 00:16:59 +0000"
@@ -6463,9 +6524,33 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/misc/crimson_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-10 00:29:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-04-09 23:26:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-04-10 00:29:46 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/cherry_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
     },
     "done": true
   },
@@ -6496,6 +6581,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
     },
     "done": true
   },
@@ -6550,6 +6641,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-10 00:29:46 +0000"
     },
     "done": true
   },
@@ -6667,9 +6764,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-04-10 00:29:56 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-04-09 23:31:03 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/acacia_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
     },
     "done": true
   },
@@ -6685,6 +6800,12 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/misc/oak_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_magenta_dye": "2025-04-09 23:33:48 +0000"
@@ -6694,6 +6815,12 @@
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_cyan_dye": "2025-04-09 23:46:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
     },
     "done": true
   },
@@ -6727,6 +6854,12 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/misc/bamboo_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-10 00:30:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-04-09 23:31:04 +0000"
@@ -6742,6 +6875,12 @@
   "knightquest:recipes/misc/deepslate_leggings": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
+    },
+    "done": true
+  },
+  "cavernous:breaking_ground": {
+    "criteria": {
+      "spelunk": "2025-04-10 00:31:42 +0000"
     },
     "done": true
   },
