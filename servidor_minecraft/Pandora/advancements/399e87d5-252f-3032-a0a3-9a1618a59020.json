@@ -6958,6 +6958,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-04-10 23:07:56 +0000"
+    },
+    "done": false
+  },
   "variantvanillablocks:recipes/redstone/jungle_lectern": {
     "criteria": {
       "has_book": "2025-04-10 22:34:53 +0000"
@@ -7168,6 +7174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-04-10 23:08:41 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/building_blocks/birch_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-10 22:34:53 +0000"
@@ -7189,6 +7201,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-10 22:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-10 23:05:55 +0000"
     },
     "done": true
   },
@@ -7237,6 +7255,12 @@
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-04-10 22:28:59 +0000"
+    },
+    "done": true
+  },
+  "faded_conquest_2:pbslain": {
+    "criteria": {
+      "pbslain": "2025-04-10 23:08:27 +0000"
     },
     "done": true
   },
