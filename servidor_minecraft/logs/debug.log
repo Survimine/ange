@@ -14744,3 +14744,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Apr2025 22:38:52.570] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
 [10Apr2025 22:39:07.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Book of Monsters]
 [10Apr2025 22:39:51.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/2514, l='ServerLevel[Pandora]', x=28.24, y=63.00, z=1695.77] died, message: 'Cleric was slain by Zombie Villager'
+[10Apr2025 22:43:52.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[10Apr2025 22:43:52.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[10Apr2025 22:48:52.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[10Apr2025 22:48:52.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
