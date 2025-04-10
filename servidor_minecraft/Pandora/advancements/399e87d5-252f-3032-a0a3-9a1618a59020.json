@@ -381,6 +381,7 @@
       "minecraft:sparse_jungle": "2025-04-05 23:44:02 +0000",
       "minecraft:lukewarm_ocean": "2025-04-05 23:44:03 +0000",
       "minecraft:river": "2025-04-05 23:12:51 +0000",
+      "minecraft:dripstone_caves": "2025-04-10 00:15:29 +0000",
       "minecraft:forest": "2025-04-05 22:57:02 +0000",
       "minecraft:desert": "2025-04-09 20:12:08 +0000",
       "minecraft:jungle": "2025-04-06 00:17:00 +0000",
@@ -1657,6 +1658,7 @@
       "minecraft:pillager": "2025-04-05 23:47:06 +0000",
       "minecraft:skeleton": "2025-04-09 02:06:53 +0000",
       "minecraft:spider": "2025-04-05 23:20:37 +0000",
+      "minecraft:creeper": "2025-04-10 00:12:55 +0000",
       "minecraft:zombie": "2025-04-05 23:19:55 +0000"
     },
     "done": false
@@ -6379,6 +6381,12 @@
     },
     "done": true
   },
+  "cavernous:getting_to_the_point": {
+    "criteria": {
+      "minecraft:dripstone_caves": "2025-04-10 00:15:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-09 23:33:59 +0000"
@@ -6532,6 +6540,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-09 23:40:04 +0000"
+    },
+    "done": true
+  },
+  "cavernous:delver": {
+    "criteria": {
+      "spelunk": "2025-04-10 00:11:43 +0000"
     },
     "done": true
   },
@@ -6772,6 +6786,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-04-09 23:34:54 +0000"
+    },
+    "done": true
+  },
+  "cavernous:breaking_ground": {
+    "criteria": {
+      "spelunk": "2025-04-10 00:15:29 +0000"
     },
     "done": true
   },

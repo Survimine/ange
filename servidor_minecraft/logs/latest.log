@@ -534,3 +534,7 @@
 [10Apr2025 00:05:00.372] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [27, 91], pos: BlockPos{x=444, y=35, z=1467}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_2]
 [10Apr2025 00:05:00.373] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [27, 91], pos: BlockPos{x=444, y=35, z=1466}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_2]
 [10Apr2025 00:05:00.373] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [27, 91], pos: BlockPos{x=444, y=35, z=1466}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_2]
+[10Apr2025 00:11:25.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Delving in]
+[10Apr2025 00:11:43.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Delving in]
+[10Apr2025 00:14:42.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Spelunkage]
+[10Apr2025 00:15:29.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Breaking ground]
