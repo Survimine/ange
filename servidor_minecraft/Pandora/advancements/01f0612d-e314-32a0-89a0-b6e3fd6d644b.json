@@ -922,6 +922,7 @@
   "cavernous:geology_rocks": {
     "criteria": {
       "cobblestone": "2025-04-05 23:14:21 +0000",
+      "tuff": "2025-04-10 00:20:45 +0000",
       "cobbled_deepslate": "2025-04-10 00:10:48 +0000",
       "andesite": "2025-04-06 00:15:33 +0000"
     },
@@ -6366,6 +6367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-10 00:16:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-10 00:14:42 +0000"
@@ -6438,6 +6445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-10 00:16:59 +0000"
+    },
+    "done": true
+  },
   "cavernous:delver": {
     "criteria": {
       "spelunk": "2025-04-10 00:11:25 +0000"
@@ -6474,6 +6487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-10 00:16:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
@@ -6483,6 +6502,12 @@
   "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
       "has_silver_ingot": "2025-04-09 23:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-10 00:16:59 +0000"
     },
     "done": true
   },
@@ -6609,6 +6634,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-10 00:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-10 00:16:59 +0000"
     },
     "done": true
   },
