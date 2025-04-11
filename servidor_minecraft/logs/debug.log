@@ -15035,3 +15035,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 02:57:43.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
 [11Apr2025 03:02:43.705] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
 [11Apr2025 03:02:43.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[11Apr2025 03:07:43.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[11Apr2025 03:07:43.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[11Apr2025 03:12:43.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[11Apr2025 03:12:43.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[11Apr2025 03:13:44.704] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
