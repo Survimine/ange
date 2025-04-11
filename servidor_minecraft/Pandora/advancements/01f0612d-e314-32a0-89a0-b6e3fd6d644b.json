@@ -6884,11 +6884,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "direct": "2025-04-11 02:18:55 +0000"
+      "traded": "2025-04-11 02:25:26 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "knightquest:recipes/misc/skulk4_helmet": {
+    "criteria": {
+      "has_blue_ice": "2025-04-11 02:25:27 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -3080,3 +3080,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 02:18:37.532] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
 [11Apr2025 02:18:37.794] [Server thread/INFO] [do_a_barrel_roll/]: Client of Angelitrona12 accepted server config.
 [11Apr2025 02:25:26.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [What a Deal!]
+[11Apr2025 02:35:17.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Not Today, Thank You]
