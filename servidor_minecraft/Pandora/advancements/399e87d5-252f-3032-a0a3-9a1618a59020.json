@@ -6777,6 +6777,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-04-11 02:51:18 +0000",
       "minecraft:cow": "2025-04-09 23:53:33 +0000"
     },
     "done": false
@@ -7345,6 +7346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-11 02:45:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-04-11 02:33:00 +0000"
@@ -7360,6 +7367,12 @@
   "cfm:recipes/decorations/blue_picket_fence": {
     "criteria": {
       "has_concrete": "2025-04-11 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-04-11 02:45:12 +0000"
     },
     "done": true
   },

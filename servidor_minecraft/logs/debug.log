@@ -15021,3 +15021,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [11Apr2025 02:39:17.997] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
 [11Apr2025 02:42:43.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
 [11Apr2025 02:42:43.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[11Apr2025 02:46:26.803] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Apr2025 02:47:43.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[11Apr2025 02:47:43.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[11Apr2025 02:51:27.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Bonfire Lit]
+[11Apr2025 02:51:32.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has reached the goal [Dinner's Served!]
+[11Apr2025 02:52:43.708] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[11Apr2025 02:52:43.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[11Apr2025 02:54:03.456] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[11Apr2025 02:55:10.510] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
