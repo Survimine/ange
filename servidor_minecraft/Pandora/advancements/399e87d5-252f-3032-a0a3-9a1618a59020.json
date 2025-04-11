@@ -7297,6 +7297,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "direct": "2025-04-11 02:42:07 +0000"
+    },
+    "done": false
+  },
   "faded_conquest_2:pbslain": {
     "criteria": {
       "pbslain": "2025-04-10 23:08:27 +0000"
@@ -7333,6 +7339,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-11 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-11 02:33:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-04-11 02:22:05 +0000"
@@ -7342,6 +7360,12 @@
   "cfm:recipes/decorations/blue_picket_fence": {
     "criteria": {
       "has_concrete": "2025-04-11 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-11 02:33:00 +0000"
     },
     "done": true
   },
