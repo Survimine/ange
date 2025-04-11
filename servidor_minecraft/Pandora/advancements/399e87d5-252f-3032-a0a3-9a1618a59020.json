@@ -7334,27 +7334,15 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-11 02:35:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-04-11 02:45:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/ghost_chest": {
-    "criteria": {
-      "has_item": "2025-04-11 02:33:00 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/eat_comfort_food": {
     "criteria": {
       "comfort": "2025-04-11 02:22:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-04-11 02:32:14 +0000"
     },
     "done": true
   },
@@ -7364,9 +7352,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
-      "has_bow": "2025-04-11 03:11:04 +0000"
+      "has_item": "2025-04-11 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-11 02:33:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-11 02:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-04-11 02:45:12 +0000"
     },
     "done": true
   },
@@ -7382,15 +7388,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/graveyard_soil": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_item": "2025-04-11 02:33:00 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_picket_fence": {
-    "criteria": {
-      "has_concrete": "2025-04-11 02:32:14 +0000"
+      "has_bow": "2025-04-11 03:11:04 +0000"
     },
     "done": true
   },
