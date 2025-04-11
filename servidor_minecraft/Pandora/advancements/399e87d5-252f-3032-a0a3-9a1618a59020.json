@@ -7298,12 +7298,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "direct": "2025-04-11 02:54:34 +0000"
-    },
-    "done": false
-  },
   "faded_conquest_2:pbslain": {
     "criteria": {
       "pbslain": "2025-04-10 23:08:27 +0000"
