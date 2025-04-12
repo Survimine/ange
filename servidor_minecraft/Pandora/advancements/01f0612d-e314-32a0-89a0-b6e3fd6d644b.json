@@ -7851,6 +7851,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-12 02:49:17 +0000"
+    },
+    "done": true
+  },
   "variantvanillablocks:recipes/building_blocks/jungle_bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 02:48:13 +0000"
@@ -7871,6 +7877,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-04-12 02:54:46 +0000",
       "minecraft:sheep": "2025-04-12 02:35:52 +0000",
       "minecraft:cow": "2025-04-12 02:35:49 +0000"
     },
@@ -7936,6 +7943,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-04-12 02:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 02:48:13 +0000"
@@ -7975,6 +7988,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-12 02:49:17 +0000"
     },
     "done": true
   },
