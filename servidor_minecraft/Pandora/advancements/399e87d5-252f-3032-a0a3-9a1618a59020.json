@@ -7409,6 +7409,12 @@
     },
     "done": true
   },
+  "ancient_elements:fluffy": {
+    "criteria": {
+      "fluffy": "2025-04-12 03:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-04-12 02:35:45 +0000"

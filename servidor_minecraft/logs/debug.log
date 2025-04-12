@@ -17238,3 +17238,68 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 03:00:26.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11017, l='ServerLevel[Pandora]', x=131.50, y=64.50, z=2386.50] died, message: 'Unemployed suffocated in a wall'
 [12Apr2025 03:00:28.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11052, l='ServerLevel[Pandora]', x=121.50, y=65.00, z=2386.50] died, message: 'Unemployed suffocated in a wall'
 [12Apr2025 03:00:28.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11053, l='ServerLevel[Pandora]', x=121.50, y=65.00, z=2390.50] died, message: 'Unemployed suffocated in a wall'
+[12Apr2025 03:02:08.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Fluffy!]
+[12Apr2025 03:02:54.107] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[12Apr2025 03:02:54.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[12Apr2025 03:02:54.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[12Apr2025 03:02:54.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[12Apr2025 03:02:54.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[12Apr2025 03:02:54.108] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[12Apr2025 03:02:54.981] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[12Apr2025 03:02:54.981] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[12Apr2025 03:02:54.981] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[12Apr2025 03:02:54.981] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[12Apr2025 03:02:54.982] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[12Apr2025 03:02:54.982] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[12Apr2025 03:02:55.851] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
+[12Apr2025 03:02:55.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
+[12Apr2025 03:02:55.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
+[12Apr2025 03:02:55.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
+[12Apr2025 03:02:55.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
+[12Apr2025 03:02:55.852] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
+[12Apr2025 03:03:20.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[12Apr2025 03:03:20.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[12Apr2025 03:03:32.752] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9105, l='ServerLevel[Pandora]', x=178.51, y=66.00, z=2255.50] died, message: 'Unemployed burned to death'
+[12Apr2025 03:04:05.206] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10863, l='ServerLevel[Pandora]', x=165.58, y=71.00, z=2230.68] died, message: 'Unemployed burned to death'
+[12Apr2025 03:04:05.207] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10864, l='ServerLevel[Pandora]', x=171.50, y=71.00, z=2228.34] died, message: 'Unemployed burned to death'
+[12Apr2025 03:05:15.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra burned to death
+[12Apr2025 03:05:25.321] [Server thread/DEBUG] [twilightforest/]: Player Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020) respawned and received items held in storage
+[12Apr2025 03:05:25.449] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
+[12Apr2025 03:06:27.637] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15551, l='ServerLevel[Pandora]', x=384.50, y=71.00, z=2309.50]
+[12Apr2025 03:06:38.485] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/15703, l='ServerLevel[Pandora]', x=402.50, y=76.00, z=2335.50]
+[12Apr2025 03:06:44.771] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-83, y=-58, z=9}
+[12Apr2025 03:06:44.772] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-85, y=-58, z=9}
+[12Apr2025 03:06:44.772] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=0}
+[12Apr2025 03:06:44.772] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=0}
+[12Apr2025 03:06:44.772] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-81, y=-58, z=4}
+[12Apr2025 03:06:44.772] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-87, y=-58, z=4}
+[12Apr2025 03:07:10.235] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[12Apr2025 03:07:38.009] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16381, l='ServerLevel[Pandora]', x=-164.77, y=77.81, z=1425.02]
+[12Apr2025 03:07:38.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16382, l='ServerLevel[Pandora]', x=-164.41, y=77.28, z=1426.14]
+[12Apr2025 03:07:38.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16385, l='ServerLevel[Pandora]', x=-168.05, y=78.07, z=1424.86]
+[12Apr2025 03:07:38.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16386, l='ServerLevel[Pandora]', x=-168.72, y=77.68, z=1425.67]
+[12Apr2025 03:07:38.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16387, l='ServerLevel[Pandora]', x=-169.30, y=77.41, z=1426.38]
+[12Apr2025 03:07:38.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/16388, l='ServerLevel[Pandora]', x=-170.05, y=77.15, z=1427.29]
+[12Apr2025 03:08:20.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[12Apr2025 03:08:20.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[12Apr2025 03:09:07.085] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Apr2025 03:09:08.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Forager]
+[12Apr2025 03:09:11.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Apr2025 03:09:27.788] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[12Apr2025 03:09:27.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[12Apr2025 03:09:27.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[12Apr2025 03:09:27.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[12Apr2025 03:09:27.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[12Apr2025 03:09:27.789] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[12Apr2025 03:09:32.221] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-38, y=-58, z=9}
+[12Apr2025 03:09:32.222] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-40, y=-58, z=9}
+[12Apr2025 03:09:32.222] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=0}
+[12Apr2025 03:09:32.222] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=0}
+[12Apr2025 03:09:32.223] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-58, z=4}
+[12Apr2025 03:09:32.223] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-42, y=-58, z=4}
+[12Apr2025 03:09:33.435] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Apr2025 03:09:33.436] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Apr2025 03:09:33.533] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[12Apr2025 03:11:28.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 was turned into KFC by Fire Dragon
+[12Apr2025 03:11:30.789] [Server thread/DEBUG] [twilightforest/]: Player Angelitrona12 (01f0612d-e314-32a0-89a0-b6e3fd6d644b) respawned and received items held in storage
+[12Apr2025 03:11:30.847] [Server thread/INFO] [do_a_barrel_roll/]: Client of Angelitrona12 accepted server config.
