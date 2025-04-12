@@ -7779,12 +7779,270 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/redstone/warped_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bamboo_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/spruce_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/jungle_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/mangrove_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/mangrove_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/dark_oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/acacia_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-04-12 02:35:52 +0000",
       "minecraft:cow": "2025-04-12 02:35:49 +0000"
     },
     "done": false
+  },
+  "variantvanillablocks:recipes/building_blocks/cherry_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/bamboo_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-12 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/acacia_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/warped_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/birch_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/spruce_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/cherry_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/birch_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/crimson_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-12 02:46:06 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/dark_oak_lectern": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-12 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/lectern": {
+    "criteria": {
+      "has_the_recipe": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-12 02:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-12 02:42:36 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/jungle_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/crimson_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-12 02:48:13 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

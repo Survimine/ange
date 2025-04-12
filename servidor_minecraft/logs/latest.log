@@ -3080,3 +3080,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 02:33:57.602] [Server thread/INFO] [Jade/]: Syncing config to Angelitrona12 (01f0612d-e314-32a0-89a0-b6e3fd6d644b)
 [12Apr2025 02:34:09.006] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
 [12Apr2025 02:34:18.316] [Server thread/INFO] [do_a_barrel_roll/]: Client of Angelitrona12 accepted server config.
+[12Apr2025 02:42:08.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[12Apr2025 02:45:26.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2042, l='ServerLevel[Pandora]', x=125.70, y=61.00, z=1508.36] died, message: 'Unemployed was slain by Beast Patient'
+[12Apr2025 02:46:30.756] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/2544, l='ServerLevel[Pandora]', x=111.05, y=68.00, z=1605.55] died, message: 'Scribe was slain by Husk'
+[12Apr2025 02:48:18.410] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forager'/2903, l='ServerLevel[Pandora]', x=215.48, y=70.00, z=1792.67] died, message: 'Forager was slain by Door Knight'
+[12Apr2025 02:49:11.747] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2541, l='ServerLevel[Pandora]', x=134.71, y=66.00, z=1490.63] died, message: 'Farmer was slain by Zombie Lumberjack'
