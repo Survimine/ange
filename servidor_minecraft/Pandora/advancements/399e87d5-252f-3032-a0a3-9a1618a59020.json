@@ -6780,6 +6780,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2025-04-17 02:30:46 +0000",
       "minecraft:sheep": "2025-04-11 02:51:18 +0000",
       "minecraft:cow": "2025-04-09 23:53:33 +0000"
     },
@@ -7397,21 +7398,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2025-04-12 02:40:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-12 02:35:45 +0000"
-    },
-    "done": true
-  },
-  "ancient_elements:fluffy": {
-    "criteria": {
-      "fluffy": "2025-04-12 03:02:08 +0000"
     },
     "done": true
   },
@@ -7427,6 +7416,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-12 02:35:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-04-12 02:40:14 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/iron_ladder": {
     "criteria": {
       "has_iron_bars": "2025-04-12 02:40:14 +0000"
@@ -7439,11 +7440,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
+  "ancient_elements:fluffy": {
     "criteria": {
-      "has_amethyst_shard": "2025-04-12 02:35:45 +0000"
+      "fluffy": "2025-04-12 03:02:08 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-17 02:30:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
