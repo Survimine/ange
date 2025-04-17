@@ -7446,11 +7446,95 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/warped_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "potato": "2025-04-17 02:30:25 +0000"
     },
     "done": false
+  },
+  "variantvanillablocks:recipes/decorations/cherry_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-17 02:44:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/spruce_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/oak_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/bamboo_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/dark_oak_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/mangrove_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/acacia_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/crimson_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_the_recipe": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/jungle_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
