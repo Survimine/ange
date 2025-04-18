@@ -7543,6 +7543,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "target": "2025-04-18 01:37:13 +0000"
+    },
+    "done": false
+  },
   "biomeswevegone:recipes/building_blocks/ebony_stairs": {
     "criteria": {
       "has_planks": "2025-04-18 00:34:37 +0000"
