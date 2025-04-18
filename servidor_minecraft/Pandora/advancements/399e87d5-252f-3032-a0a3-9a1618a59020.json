@@ -7663,6 +7663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/endumium_block": {
+    "criteria": {
+      "has_endumium_crystal": "2025-04-18 01:29:22 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-04-18 00:29:45 +0000"
