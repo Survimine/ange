@@ -15180,3 +15180,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 22:32:26.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 was slain by Beast Patient
 [18Apr2025 22:32:27.567] [Server thread/DEBUG] [twilightforest/]: Player Angelitrona12 (01f0612d-e314-32a0-89a0-b6e3fd6d644b) respawned and received items held in storage
 [18Apr2025 22:32:27.669] [Server thread/INFO] [do_a_barrel_roll/]: Client of Angelitrona12 accepted server config.
+[18Apr2025 22:34:53.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Apr2025 22:34:53.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Apr2025 22:35:46.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Disconnected
+[18Apr2025 22:35:46.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
+[18Apr2025 22:35:52.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[18Apr2025 22:35:52.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[18Apr2025 22:40:52.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[18Apr2025 22:40:52.198] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora

@@ -3532,3 +3532,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 22:27:04.757] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [18Apr2025 22:32:26.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 was slain by Beast Patient
 [18Apr2025 22:32:27.669] [Server thread/INFO] [do_a_barrel_roll/]: Client of Angelitrona12 accepted server config.
+[18Apr2025 22:34:53.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Apr2025 22:34:53.308] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[18Apr2025 22:35:46.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Disconnected
+[18Apr2025 22:35:46.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
