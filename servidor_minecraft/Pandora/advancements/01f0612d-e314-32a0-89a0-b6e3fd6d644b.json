@@ -8186,27 +8186,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/ash_to_charcoal": {
+  "biomeswevegone:recipes/building_blocks/ebony_wood": {
     "criteria": {
-      "has_item": "2025-04-17 02:32:06 +0000"
+      "has_log": "2025-04-17 02:31:03 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+  "biomeswevegone:recipes/building_blocks/ebony_planks": {
     "criteria": {
-      "beef_patty": "2025-04-17 02:38:30 +0000"
+      "has_log": "2025-04-17 02:31:03 +0000"
     },
     "done": true
   },
   "biomeswevegone:recipes/building_blocks/ebony_stairs": {
     "criteria": {
       "has_planks": "2025-04-17 02:31:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-04-17 02:33:02 +0000"
     },
     "done": true
   },
@@ -8219,36 +8213,6 @@
   "biomeswevegone:recipes/redstone/ebony_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-17 02:31:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-04-17 02:38:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-04-17 02:38:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-04-17 02:38:30 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/ebony_wood": {
-    "criteria": {
-      "has_log": "2025-04-17 02:31:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-04-17 02:38:39 +0000"
     },
     "done": true
   },
@@ -8276,27 +8240,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-04-17 02:38:30 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-04-17 02:38:30 +0000"
-    },
-    "done": true
-  },
   "biomeswevegone:recipes/redstone/ebony_door": {
     "criteria": {
       "has_planks": "2025-04-17 02:31:10 +0000"
-    },
-    "done": true
-  },
-  "biomeswevegone:recipes/building_blocks/ebony_planks": {
-    "criteria": {
-      "has_log": "2025-04-17 02:31:03 +0000"
     },
     "done": true
   },
@@ -8315,6 +8261,60 @@
   "biomeswevegone:recipes/redstone/ebony_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-17 02:31:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-04-17 02:32:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-17 02:33:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-04-17 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-04-17 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-04-17 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-04-17 02:38:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-17 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-04-17 02:38:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-04-17 02:38:39 +0000"
     },
     "done": true
   },

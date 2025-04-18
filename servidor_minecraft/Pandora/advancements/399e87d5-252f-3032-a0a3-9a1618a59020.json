@@ -1421,7 +1421,8 @@
     "criteria": {
       "cobblestone": "2025-04-05 23:14:37 +0000",
       "tuff": "2025-04-10 00:23:15 +0000",
-      "cobbled_deepslate": "2025-04-05 23:30:48 +0000"
+      "cobbled_deepslate": "2025-04-05 23:30:48 +0000",
+      "andesite": "2025-04-18 00:29:45 +0000"
     },
     "done": false
   },
@@ -7446,6 +7447,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-04-17 02:30:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-17 02:44:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-17 02:44:38 +0000"
@@ -7458,21 +7471,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "potato": "2025-04-17 02:30:25 +0000"
-    },
-    "done": false
-  },
   "variantvanillablocks:recipes/decorations/cherry_fletching_table": {
     "criteria": {
       "has_flint": "2025-04-17 02:44:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
-    "criteria": {
-      "has_gravel": "2025-04-17 02:44:06 +0000"
     },
     "done": true
   },
@@ -7533,6 +7534,144 @@
   "variantvanillablocks:recipes/decorations/jungle_fletching_table": {
     "criteria": {
       "has_flint": "2025-04-17 02:44:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_bookshelf": {
+    "criteria": {
+      "has_ebony_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_pillar_trim": {
+    "criteria": {
+      "has_andesite_pillar_trim": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/ebony_slab": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/andesite_corner_trim": {
+    "criteria": {
+      "has_andesite_corner_trim": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_button": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-18 00:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/ebony_sign": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/redstone/ebony_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-18 00:34:37 +0000"
     },
     "done": true
   },
