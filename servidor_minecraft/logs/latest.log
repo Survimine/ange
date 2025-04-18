@@ -3093,3 +3093,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Apr2025 01:05:22.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra was slain by Veteran infantryman of the legion
 [18Apr2025 01:05:24.246] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
 [18Apr2025 01:12:37.455] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[18Apr2025 01:19:08.006] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/13645, l='ServerLevel[Pandora]', x=16.50, y=71.00, z=967.50]
+[18Apr2025 01:21:26.554] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14350, l='ServerLevel[Pandora]', x=17.50, y=71.00, z=967.50]
+[18Apr2025 01:22:06.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14619, l='ServerLevel[Pandora]', x=16.50, y=71.00, z=965.50]
