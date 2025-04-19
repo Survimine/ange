@@ -7813,6 +7813,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shinobi_chestplate": {
     "criteria": {
       "has_red_banner": "2025-04-19 14:48:27 +0000"
@@ -7831,6 +7843,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-04-19 14:58:39 +0000"
@@ -7840,6 +7870,30 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-19 14:58:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
     },
     "done": true
   },
@@ -7855,9 +7909,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_grill_cooking": {
     "criteria": {
       "has_chicken": "2025-04-19 14:58:46 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
     },
     "done": true
   },
@@ -7867,9 +7951,21 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/shinobi_leggings": {
     "criteria": {
       "has_red_banner": "2025-04-19 14:48:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_blinds": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
     },
     "done": true
   },
@@ -7885,6 +7981,54 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/jungle_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-04-19 14:58:39 +0000"
@@ -7894,6 +8038,18 @@
   "cfm:recipes/decorations/light_gray_sofa": {
     "criteria": {
       "has_wool": "2025-04-19 14:58:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-04-19 15:12:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_log": "2025-04-19 15:12:34 +0000"
     },
     "done": true
   },
