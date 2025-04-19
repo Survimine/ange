@@ -7783,11 +7783,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_hit": {
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
     "criteria": {
-      "not_target": "2025-04-18 18:46:19 +0000"
+      "has_mangrove_roots": "2025-04-18 19:09:58 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
@@ -7795,9 +7795,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+  "cfm:recipes/decorations/oak_hedge": {
     "criteria": {
-      "has_mangrove_roots": "2025-04-18 19:09:58 +0000"
+      "has_leaves": "2025-04-19 14:33:14 +0000"
     },
     "done": true
   },
