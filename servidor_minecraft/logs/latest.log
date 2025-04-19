@@ -3482,3 +3482,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 14:53:15.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra was turned into KFC by Fire Dragon
 [19Apr2025 14:53:32.866] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
 [19Apr2025 14:53:33.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Creative Mode]
+[19Apr2025 14:58:18.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Dragonslayer]
+[19Apr2025 14:59:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Survival Mode]
+[19Apr2025 15:02:45.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Creative Mode]
+[19Apr2025 15:05:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Survival Mode]
