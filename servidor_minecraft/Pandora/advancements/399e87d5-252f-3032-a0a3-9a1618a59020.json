@@ -7795,9 +7795,33 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_red_banner": "2025-04-19 14:48:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_red_banner": "2025-04-19 14:48:27 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_hedge": {
     "criteria": {
       "has_leaves": "2025-04-19 14:33:14 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_red_banner": "2025-04-19 14:48:27 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_red_banner": "2025-04-19 14:48:27 +0000"
     },
     "done": true
   },

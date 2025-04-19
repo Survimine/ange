@@ -3479,3 +3479,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 14:29:58.311] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
 [19Apr2025 14:30:00.617] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2684ms or 53 ticks behind
 [19Apr2025 14:30:28.110] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
+[19Apr2025 14:53:15.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra was turned into KFC by Fire Dragon
+[19Apr2025 14:53:32.866] [Server thread/INFO] [do_a_barrel_roll/]: Client of Zeadra accepted server config.
+[19Apr2025 14:53:33.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Creative Mode]
