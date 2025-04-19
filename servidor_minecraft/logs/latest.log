@@ -3486,3 +3486,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 14:59:57.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Survival Mode]
 [19Apr2025 15:02:45.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Creative Mode]
 [19Apr2025 15:05:23.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Survival Mode]
+[19Apr2025 15:21:44.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Disconnected
+[19Apr2025 15:21:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game

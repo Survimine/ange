@@ -15183,3 +15183,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Apr2025 15:08:57.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
 [19Apr2025 15:13:56.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
 [19Apr2025 15:13:57.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[19Apr2025 15:18:56.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[19Apr2025 15:18:57.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[19Apr2025 15:20:11.262] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=45, y=66, z=1266}) doesn't have enough leaves around top most log
+[19Apr2025 15:20:25.259] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=43, y=66, z=1266}) doesn't have enough leaves around top most log
+[19Apr2025 15:20:27.907] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=41, y=66, z=1266}) doesn't have enough leaves around top most log
+[19Apr2025 15:20:32.502] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=41, y=66, z=1254}) doesn't have enough leaves around top most log
+[19Apr2025 15:20:34.950] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=43, y=66, z=1254}) doesn't have enough leaves around top most log
+[19Apr2025 15:20:37.257] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=45, y=66, z=1254}) doesn't have enough leaves around top most log
+[19Apr2025 15:21:44.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Disconnected
+[19Apr2025 15:21:44.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[19Apr2025 15:23:56.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[19Apr2025 15:23:56.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
