@@ -1633,6 +1633,12 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_glider_framework": "2025-05-27 01:48:22 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/spider_boots": {
     "criteria": {
       "has_spider_eye": "2025-05-27 01:11:09 +0000"
