@@ -11519,3 +11519,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 02:38:48.863] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/29206, l='ServerLevel[Nuevo mundo]', x=-1483.50, y=71.00, z=558.50]
 [28May2025 02:39:04.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Timed out
 [28May2025 02:39:04.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
+[28May2025 02:40:20.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angelitrona12[/100.103.253.57:51266] logged in with entity id 29635 at (-1437.384500822059, 69.0, 531.0751698528533)
+[28May2025 02:40:20.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 joined the game
+[28May2025 02:40:21.018] [Server thread/INFO] [Jade/]: Syncing config to Angelitrona12 (01f0612d-e314-32a0-89a0-b6e3fd6d644b)
+[28May2025 02:40:38.114] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30036, l='ServerLevel[Nuevo mundo]', x=-1500.50, y=72.00, z=536.50]
+[28May2025 02:41:16.563] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30214, l='ServerLevel[Nuevo mundo]', x=-1479.50, y=71.00, z=589.50]
+[28May2025 02:41:21.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Timed out
+[28May2025 02:41:21.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
+[28May2025 02:41:55.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Angelitrona12[/100.103.253.57:51281] logged in with entity id 30342 at (-1437.384500822059, 69.0, 531.0751698528533)
+[28May2025 02:41:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 joined the game
+[28May2025 02:41:55.228] [Server thread/INFO] [Jade/]: Syncing config to Angelitrona12 (01f0612d-e314-32a0-89a0-b6e3fd6d644b)
+[28May2025 02:42:04.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30711, l='ServerLevel[Nuevo mundo]', x=-1503.50, y=73.00, z=423.50]
+[28May2025 02:42:29.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Timed out
+[28May2025 02:42:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
