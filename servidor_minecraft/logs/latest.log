@@ -11532,3 +11532,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 02:42:04.663] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/30711, l='ServerLevel[Nuevo mundo]', x=-1503.50, y=73.00, z=423.50]
 [28May2025 02:42:29.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Timed out
 [28May2025 02:42:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
+[28May2025 02:52:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set the time to 1000]
+[28May2025 02:57:49.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
