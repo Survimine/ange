@@ -3892,73 +3892,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-05-28 02:55:37 +0000"
+      "log_spam_fixer": "2025-05-28 03:05:37 +0000"
     },
     "done": false
   },
@@ -3992,6 +3992,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-05-28 02:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-05-28 02:36:05 +0000"
@@ -4022,9 +4046,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2025-05-28 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-28 02:56:41 +0000"
     },
     "done": true
   },
@@ -4064,6 +4100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-05-28 03:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-05-28 02:53:50 +0000"
@@ -4100,6 +4142,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-28 02:36:05 +0000"
@@ -4118,9 +4166,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-05-28 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-05-28 02:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-28 02:56:41 +0000"
     },
     "done": true
   },
@@ -4169,6 +4235,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-28 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-28 02:56:41 +0000"
     },
     "done": true
   },
@@ -4232,6 +4304,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-05-28 02:53:50 +0000"
@@ -4241,6 +4325,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-28 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
     },
     "done": true
   },
@@ -4256,6 +4346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
     "criteria": {
       "has_polished_diorite": "2025-05-28 02:43:11 +0000"
@@ -4265,6 +4361,18 @@
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-28 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
     },
     "done": true
   },
@@ -4295,6 +4403,24 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-28 02:53:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-05-28 02:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-05-28 02:56:06 +0000"
     },
     "done": true
   },

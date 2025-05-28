@@ -23292,3 +23292,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 02:55:37.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
 [28May2025 02:55:37.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
 [28May2025 02:57:49.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28May2025 03:00:09.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28May2025 03:00:17.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28May2025 03:00:37.135] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[28May2025 03:00:37.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
+[28May2025 03:05:37.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[28May2025 03:05:37.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo

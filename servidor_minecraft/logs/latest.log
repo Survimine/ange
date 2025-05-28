@@ -11534,3 +11534,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 02:42:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
 [28May2025 02:52:05.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set the time to 1000]
 [28May2025 02:57:49.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28May2025 03:00:09.711] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28May2025 03:00:17.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
