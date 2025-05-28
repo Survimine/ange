@@ -3367,3 +3367,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 23:39:33.431] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
 [28May2025 23:42:28.232] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [28May2025 23:42:28.233] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28May2025 23:51:42.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Mine? Mine? Mine?]
+[28May2025 23:51:49.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
