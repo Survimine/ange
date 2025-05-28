@@ -15300,3 +15300,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 01:47:44.108] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-35, -4], pos: BlockPos{x=-560, y=33, z=-58}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_1]
 [28May2025 01:47:44.108] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-35, -4], pos: BlockPos{x=-559, y=33, z=-58}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_1]
 [28May2025 01:47:44.108] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-35, -4], pos: BlockPos{x=-559, y=33, z=-58}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_1]
+[28May2025 01:48:53.806] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[28May2025 01:48:53.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
+[28May2025 01:51:47.026] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.air) [respectsCutoff: false]
+[28May2025 01:53:53.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[28May2025 01:53:53.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
+[28May2025 01:53:57.454] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[28May2025 01:54:06.130] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[28May2025 01:54:06.826] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[28May2025 01:54:07.595] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[28May2025 01:54:10.108] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[28May2025 01:54:11.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-411, y=64, z=161} BlockPos{x=-411, y=62, z=161}
+[28May2025 01:54:11.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-411, y=64, z=161} BlockPos{x=-411, y=62, z=161}
+[28May2025 01:54:11.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-411, y=64, z=161} BlockPos{x=-411, y=62, z=161}
+[28May2025 01:55:39.027] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[28May2025 01:58:53.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[28May2025 01:58:53.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
