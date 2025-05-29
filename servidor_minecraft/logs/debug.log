@@ -12894,3 +12894,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [28May2025 23:51:25.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
 [28May2025 23:51:42.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Mine? Mine? Mine?]
 [28May2025 23:51:49.135] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[28May2025 23:56:25.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[28May2025 23:56:25.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
+[29May2025 00:01:25.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[29May2025 00:01:25.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
