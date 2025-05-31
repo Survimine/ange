@@ -4767,13 +4767,97 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_stone": "2025-05-31 02:11:30 +0000"
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-31 01:46:16 +0000"
     },
@@ -4785,27 +4869,291 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
-    "criteria": {
-      "has_potato": "2025-05-31 02:00:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/conquistador_leggings": {
     "criteria": {
       "has_ink_sac": "2025-05-31 01:49:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
     "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_helmet": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_helmet": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_chestplate": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_boots": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_leggings": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_chestplate": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/path_leggings": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/silver_boots": {
+    "criteria": {
+      "has_black_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-05-31 01:52:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-05-31 01:59:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 01:59:54 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_variant_item": "2025-05-31 01:59:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-31 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-31 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-31 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-31 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/vodka_from_water": {
+    "criteria": {
+      "has_potato": "2025-05-31 02:00:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-31 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 02:00:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-31 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-31 02:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-05-31 02:11:30 +0000"
     },
     "done": true
   },
@@ -4827,33 +5175,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 02:00:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/cleaver_heavy_axe": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_helmet": {
-    "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
     },
     "done": true
   },
@@ -4869,75 +5193,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/strawhat_helmet": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_black_picket_fence": {
-    "criteria": {
-      "has_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_helmet": {
-    "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/silverfish_boots": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bat_chestplate": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_black_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_chestplate": {
-    "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
     },
     "done": true
   },
@@ -4947,45 +5205,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_sleeping_bag": {
-    "criteria": {
-      "has_needed_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-05-31 02:03:30 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/evoker_trophy": {
     "criteria": {
       "has_evoker_trophy": "2025-05-31 02:11:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_the_recipe": "2025-05-31 01:59:54 +0000"
     },
     "done": true
   },
@@ -5001,12 +5223,6 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/conquistador_boots": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
@@ -5019,51 +5235,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-05-31 02:00:35 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bat_leggings": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador_chestplate": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-05-31 02:00:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-05-31 01:59:41 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/path_boots": {
-    "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/strawhat_leggings": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
     },
     "done": true
   },
@@ -5073,51 +5247,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/strawhat_chestplate": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/bat_helmet": {
-    "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/dye_black_picket_gate": {
-    "criteria": {
-      "has_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
     },
     "done": true
   },
@@ -5145,27 +5277,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/silver_leggings": {
-    "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 02:00:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-05-31 02:03:30 +0000"
     },
     "done": true
   },
@@ -5181,36 +5295,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-05-31 02:00:35 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/silver_chestplate": {
-    "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "variantvanillablocks:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_variant_item": "2025-05-31 01:59:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-05-31 02:00:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
@@ -5223,93 +5307,249 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-05-31 01:46:16 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/vodka_from_water": {
-    "criteria": {
-      "has_potato": "2025-05-31 02:00:35 +0000"
-    },
-    "done": true
-  },
   "knightquest:recipes/misc/silverfish_helmet": {
     "criteria": {
       "has_stone": "2025-05-31 02:11:30 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/cleaver": {
+  "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+  "cfm:recipes/decorations/birch_desk_cabinet": {
     "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/conquistador_helmet": {
+  "minecraft:recipes/redstone/birch_button": {
     "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/redstone/birch_door": {
     "criteria": {
-      "has_obsidian": "2025-05-31 02:03:30 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/path_leggings": {
+  "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_candle": {
+  "cfm:recipes/decorations/birch_table": {
     "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/silver_boots": {
+  "handcrafted:recipes/misc/birch_shelf": {
     "criteria": {
-      "has_black_dye": "2025-05-31 01:52:03 +0000"
+      "has_birch_shelf": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
-      "has_any_ingredient": "2025-05-31 02:00:41 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "knightquest:recipes/misc/bat_boots": {
+  "handcrafted:recipes/misc/birch_nightstand": {
     "criteria": {
-      "has_ink_sac": "2025-05-31 01:49:13 +0000"
+      "has_birch_nightstand": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_black_wool": {
+  "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
-      "has_needed_dye": "2025-05-31 01:52:03 +0000"
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_crafting_table": {
+    "criteria": {
+      "has_birch_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/decorations/birch_barrel": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-05-31 02:28:41 +0000"
     },
     "done": true
   },

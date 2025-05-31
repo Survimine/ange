@@ -1022,7 +1022,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-27 02:12:24 +0000",
       "minecraft:spider": "2025-05-27 01:09:47 +0000",
-      "minecraft:zombie": "2025-05-27 01:19:38 +0000"
+      "minecraft:zombie": "2025-05-27 01:19:38 +0000",
+      "minecraft:drowned": "2025-05-31 02:30:45 +0000"
     },
     "done": false
   },
@@ -3997,6 +3998,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-31 02:25:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-05-31 01:47:01 +0000"
@@ -4062,6 +4069,14 @@
       "has_bone_meal": "2025-05-31 01:32:04 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-05-31 02:21:18 +0000",
+      "wheat": "2025-05-31 02:20:47 +0000",
+      "carrot": "2025-05-31 02:21:37 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
@@ -4432,6 +4447,12 @@
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-05-31 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-31 02:20:38 +0000"
     },
     "done": true
   },
