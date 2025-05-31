@@ -3371,3 +3371,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31May2025 16:26:22.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Acquire Hardware]
 [31May2025 16:27:35.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Creative Mode]
 [31May2025 16:27:58.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Survival Mode]
+[31May2025 16:33:52.074] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31May2025 16:34:29.424] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31May2025 16:38:05.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has reached the goal [You didn't Thinked Fast...]

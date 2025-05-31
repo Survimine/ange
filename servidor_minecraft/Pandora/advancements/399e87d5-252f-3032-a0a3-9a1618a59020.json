@@ -2508,12 +2508,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-05-31 16:28:32 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_planks": "2025-05-31 16:24:19 +0000"
@@ -3957,6 +3951,12 @@
   "mcwbridges:recipes/birch_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-05-31 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:youdidnt_thinked_fast": {
+    "criteria": {
+      "youdidnt_thinked_fast": "2025-05-31 16:38:05 +0000"
     },
     "done": true
   },
