@@ -3386,3 +3386,48 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31May2025 01:27:03.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 joined the game
 [31May2025 01:27:03.947] [Server thread/INFO] [Jade/]: Syncing config to Angelitrona12 (01f0612d-e314-32a0-89a0-b6e3fd6d644b)
 [31May2025 01:27:13.951] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3170, l='ServerLevel[Nuevo mundo]', x=-1499.50, y=72.00, z=536.50]
+[31May2025 01:27:36.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3309, l='ServerLevel[Nuevo mundo]', x=-1563.50, y=72.00, z=541.50]
+[31May2025 01:27:42.950] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/3363, l='ServerLevel[Nuevo mundo]', x=-1499.50, y=74.00, z=557.50]
+[31May2025 01:28:20.097] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[31May2025 01:28:20.098] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[31May2025 01:28:20.098] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[31May2025 01:28:28.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 moved wrongly!
+[31May2025 01:28:30.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 moved wrongly!
+[31May2025 01:28:47.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4378, l='ServerLevel[Nuevo mundo]', x=-1421.50, y=72.00, z=571.50]
+[31May2025 01:29:21.118] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-101, y=-58, z=9}
+[31May2025 01:29:21.119] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-58, z=9}
+[31May2025 01:29:21.119] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=4}
+[31May2025 01:29:21.119] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=4}
+[31May2025 01:29:21.120] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=0}
+[31May2025 01:29:21.120] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=0}
+[31May2025 01:29:23.314] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[31May2025 01:29:23.315] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[31May2025 01:29:23.316] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[31May2025 01:29:23.316] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[31May2025 01:29:23.316] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[31May2025 01:29:23.317] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[31May2025 01:29:33.073] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[31May2025 01:29:33.073] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[31May2025 01:29:33.074] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[31May2025 01:29:33.074] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[31May2025 01:29:33.074] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[31May2025 01:29:33.074] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[31May2025 01:29:34.964] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-101, y=-58, z=9}
+[31May2025 01:29:34.965] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-58, z=9}
+[31May2025 01:29:34.965] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=4}
+[31May2025 01:29:34.965] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=4}
+[31May2025 01:29:34.965] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=-58, z=0}
+[31May2025 01:29:34.966] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-97, y=-58, z=0}
+[31May2025 01:29:35.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 moved wrongly!
+[31May2025 01:29:35.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/4970, l='ServerLevel[Nuevo mundo]', x=-1338.50, y=72.00, z=417.50]
+[31May2025 01:29:39.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[31May2025 01:29:40.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Teleported Angelitrona12 to Zeadra]
+[31May2025 01:29:42.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has made the advancement [Who You Gonna Call?]
+[31May2025 01:30:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 was slain by Ghost
+[31May2025 01:30:32.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 moved wrongly!
+[31May2025 01:31:12.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set the time to 1000]
+[31May2025 01:31:12.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has made the advancement [Acquire Hardware]
+[31May2025 01:31:19.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 hit the ground too hard whilst trying to escape Ghost
+[31May2025 01:31:47.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 moved wrongly!
+[31May2025 01:34:07.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5477, l='ServerLevel[Nuevo mundo]', x=116.30, y=104.00, z=-208.06] died, message: 'Unemployed was shot by Pillager'
+[31May2025 01:34:45.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved too quickly! -7.20456458026559,1.0724278036804407,7.160880883988042
