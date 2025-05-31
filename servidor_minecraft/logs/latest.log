@@ -9768,3 +9768,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31May2025 02:37:13.195] [Worker-Main-51/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 34], pos: BlockPos{x=-171, y=38, z=552}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_1]
 [31May2025 02:37:13.195] [Worker-Main-51/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 34], pos: BlockPos{x=-172, y=38, z=552}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_1]
 [31May2025 02:37:13.195] [Worker-Main-51/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-11, 34], pos: BlockPos{x=-172, y=38, z=552}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / the_pillager_legion_:under_tunnel_horizon_high_1]
+[31May2025 02:38:24.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has made the advancement [Diamonds!]
+[31May2025 02:39:16.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Diamonds!]
+[31May2025 02:39:26.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Diamonds!]
+[31May2025 02:46:45.699] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31May2025 02:46:46.348] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31May2025 02:47:08.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has completed the challenge [Mage Class]

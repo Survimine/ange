@@ -3920,6 +3920,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-31 01:47:01 +0000"
@@ -3950,15 +3956,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-31 01:32:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/polar_leggings": {
     "criteria": {
       "has_iron_axe": "2025-05-31 01:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
     },
     "done": true
   },
@@ -4004,9 +4028,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/cleaver_heavy_axe": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-05-31 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
     },
     "done": true
   },
@@ -4064,6 +4100,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
+  },
   "overweight_farming:recipes/apply_fullmetal_directly_to_compost": {
     "criteria": {
       "has_bone_meal": "2025-05-31 01:32:04 +0000"
@@ -4077,6 +4131,12 @@
       "carrot": "2025-05-31 02:21:37 +0000"
     },
     "done": false
+  },
+  "knightquest:recipes/misc/strawhat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
     "criteria": {
@@ -4126,9 +4186,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/uchigatana_katana": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-31 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
     },
     "done": true
   },
@@ -4141,6 +4213,18 @@
   "cfm:recipes/decorations/spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-31 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador3_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
     },
     "done": true
   },
@@ -4174,6 +4258,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_corner_trim": {
+    "criteria": {
+      "has_deepslate_corner_trim": "2025-05-31 02:38:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2025-05-31 01:47:01 +0000"
@@ -4183,6 +4279,24 @@
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-31 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
     },
     "done": true
   },
@@ -4201,6 +4315,12 @@
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-05-31 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-31 02:39:16 +0000"
     },
     "done": true
   },
@@ -4234,9 +4354,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-31 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
     },
     "done": true
   },
@@ -4261,6 +4393,12 @@
   "mcwbridges:recipes/birch_rail_bridge": {
     "criteria": {
       "has_planks": "2025-05-31 01:47:01 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
     },
     "done": true
   },
@@ -4324,6 +4462,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_leggings": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-31 01:54:35 +0000"
@@ -4348,9 +4492,21 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/strawhat_chestplate": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-31 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_helmet": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
     },
     "done": true
   },
@@ -4384,6 +4540,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/deepslate_pillar_trim": {
+    "criteria": {
+      "has_deepslate_pillar_trim": "2025-05-31 02:38:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-05-31 01:47:01 +0000"
@@ -4399,6 +4567,12 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2025-05-31 01:53:47 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
     },
     "done": true
   },
@@ -4456,6 +4630,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/cleaver": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-31 01:47:01 +0000"
@@ -4474,6 +4654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:16 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-05-31 01:57:02 +0000"
@@ -4483,6 +4669,12 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-31 01:54:35 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/bat_boots": {
+    "criteria": {
+      "has_ink_sac": "2025-05-31 02:36:28 +0000"
     },
     "done": true
   },
