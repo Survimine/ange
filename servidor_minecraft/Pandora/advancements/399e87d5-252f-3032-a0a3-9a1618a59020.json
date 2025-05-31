@@ -5561,78 +5561,173 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-31 03:16:54 +0000",
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond_block": "2025-05-31 02:38:24 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/jukebox": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "knightquest:recipes/misc/uchigatana_katana": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "knightquest:recipes/misc/conquistador3_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
-      "log_spam_fixer": "2025-05-31 03:16:53 +0000"
+      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-05-31 02:39:26 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "knightquest:recipes/misc/uchigatana": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-05-31 02:50:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/beer_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
   },
   "variantvanillablocks:recipes/redstone/warped_lectern": {
     "criteria": {
@@ -5658,36 +5753,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-05-31 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/diving_board": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/redstone/jungle_lectern": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
@@ -5706,12 +5771,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
   "brewinandchewin:recipes/misc/tankard": {
     "criteria": {
       "has_nugget": "2025-05-31 02:50:11 +0000"
@@ -5724,33 +5783,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/building_blocks/mangrove_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
     "done": true
   },
@@ -5763,12 +5798,6 @@
   "variantvanillablocks:recipes/building_blocks/dark_oak_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/uchigatana_katana": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
     "done": true
   },
@@ -5787,36 +5816,6 @@
   "variantvanillablocks:recipes/building_blocks/spruce_bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/conquistador3_helmet": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_tavern": {
-    "criteria": {
-      "nova_structures:tavern_oak": "2025-05-31 03:00:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-05-31 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:gems/diamond]": "2025-05-31 02:39:26 +0000"
     },
     "done": true
   },
@@ -5844,27 +5843,9 @@
     },
     "done": true
   },
-  "knightquest:recipes/misc/uchigatana": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/redstone/acacia_lectern": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-05-31 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
     },
     "done": true
   },
@@ -5880,21 +5861,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_the_recipe": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-05-31 02:39:26 +0000"
     },
     "done": true
   },
@@ -5910,69 +5879,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_helmet": {
-    "criteria": {
-      "has_grass_block": "2025-05-31 02:59:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-05-31 02:38:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/building_blocks/crimson_bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
-    "criteria": {
-      "has_beetroot": "2025-05-31 03:03:22 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/beer_from_water": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_leggings": {
-    "criteria": {
-      "has_grass_block": "2025-05-31 02:59:24 +0000"
     },
     "done": true
   },
@@ -5997,12 +5912,6 @@
   "variantvanillablocks:recipes/redstone/crimson_lectern": {
     "criteria": {
       "has_book": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-05-31 02:50:08 +0000"
     },
     "done": true
   },
@@ -6036,45 +5945,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:root": {
-    "criteria": {
-      "nova_structures:adventure/find_tavern": "2025-05-31 03:00:21 +0000"
-    },
-    "done": true
-  },
   "variantvanillablocks:recipes/redstone/lectern": {
     "criteria": {
       "has_the_recipe": "2025-05-31 02:50:11 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/tools/diamond_machete": {
-    "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_boots": {
-    "criteria": {
-      "has_grass_block": "2025-05-31 02:59:24 +0000"
-    },
-    "done": true
-  },
-  "knightquest:recipes/misc/enderman_chestplate": {
-    "criteria": {
-      "has_grass_block": "2025-05-31 02:59:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-31 03:03:22 +0000"
     },
     "done": true
   },
@@ -6096,15 +5969,69 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "knightquest:recipes/misc/enderman_helmet": {
     "criteria": {
-      "has_diamond": "2025-05-31 02:39:26 +0000"
+      "has_grass_block": "2025-05-31 02:59:24 +0000"
     },
     "done": true
   },
-  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+  "knightquest:recipes/misc/enderman_leggings": {
     "criteria": {
-      "has_pumpkin_seeds": "2025-05-31 02:50:05 +0000"
+      "has_grass_block": "2025-05-31 02:59:24 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_boots": {
+    "criteria": {
+      "has_grass_block": "2025-05-31 02:59:24 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/enderman_chestplate": {
+    "criteria": {
+      "has_grass_block": "2025-05-31 02:59:24 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_oak": "2025-05-31 03:00:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-05-31 03:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/beetroot_soup_from_coconut_husk": {
+    "criteria": {
+      "has_beetroot": "2025-05-31 03:03:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 03:03:22 +0000"
     },
     "done": true
   },
