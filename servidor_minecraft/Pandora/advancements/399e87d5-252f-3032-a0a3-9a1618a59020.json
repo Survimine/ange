@@ -272,15 +272,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-31 02:54:20 +0000",
+      "minecraft:sunflower_plains": "2025-05-31 02:51:09 +0000",
       "minecraft:savanna_plateau": "2025-05-26 23:34:18 +0000",
+      "minecraft:beach": "2025-05-31 02:52:54 +0000",
       "minecraft:stony_peaks": "2025-05-26 23:34:24 +0000",
       "minecraft:lukewarm_ocean": "2025-05-26 23:34:52 +0000",
       "minecraft:river": "2025-05-26 23:35:16 +0000",
       "minecraft:stony_shore": "2025-05-26 23:35:10 +0000",
+      "minecraft:cold_ocean": "2025-05-31 02:55:12 +0000",
       "minecraft:forest": "2025-05-26 23:35:25 +0000",
       "minecraft:ocean": "2025-05-27 00:34:47 +0000",
       "minecraft:jungle": "2025-05-27 01:39:05 +0000",
       "minecraft:flower_forest": "2025-05-28 02:22:11 +0000",
+      "minecraft:meadow": "2025-05-31 02:49:26 +0000",
       "minecraft:savanna": "2025-05-26 23:33:18 +0000",
       "minecraft:plains": "2025-05-27 01:29:46 +0000"
     },
@@ -3203,7 +3208,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
-      "entered_hay_storage": "2025-05-27 02:03:33 +0000"
+      "entered_hay_storage": "2025-05-27 02:03:33 +0000",
+      "entered_ruined_building": "2025-05-31 02:49:47 +0000"
     },
     "done": false
   },
@@ -5553,6 +5559,30 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/redstone/warped_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/bamboo_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/spruce_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-31 02:39:26 +0000"
@@ -5571,9 +5601,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/diving_board": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/jungle_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/mangrove_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/misc/tankard": {
+    "criteria": {
+      "has_nugget": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/mangrove_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
     },
     "done": true
   },
@@ -5589,9 +5673,39 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/dark_oak_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/uchigatana_katana": {
     "criteria": {
       "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/acacia_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
     },
     "done": true
   },
@@ -5613,9 +5727,39 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/building_blocks/cherry_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/bamboo_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/uchigatana": {
     "criteria": {
       "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/acacia_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
     },
     "done": true
   },
@@ -5625,9 +5769,51 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/building_blocks/warped_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/birch_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/spruce_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
     },
     "done": true
   },
@@ -5643,9 +5829,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-05-31 02:38:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/beer_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/cherry_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/birch_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/conquistador2_helmet": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/crimson_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-31 02:50:08 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/redstone/dark_oak_lectern": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
     },
     "done": true
   },
@@ -5655,15 +5925,45 @@
     },
     "done": true
   },
+  "variantvanillablocks:recipes/redstone/lectern": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2025-05-31 02:39:26 +0000"
     },
     "done": true
   },
+  "variantvanillablocks:recipes/building_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/jungle_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
+  "variantvanillablocks:recipes/building_blocks/crimson_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-31 02:50:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-31 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/flaxen_cheese_from_milk": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-05-31 02:50:05 +0000"
     },
     "done": true
   },
