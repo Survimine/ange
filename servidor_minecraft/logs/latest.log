@@ -5565,3 +5565,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31May2025 01:46:11.927] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
 [31May2025 01:46:58.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has made the advancement [Sweet Dreams]
 [31May2025 01:47:33.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xavig20> we
+[31May2025 01:58:40.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zeadra> zz
+[31May2025 01:58:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zeadra> zzz
+[31May2025 02:01:13.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has made the advancement [Suit Up]
+[31May2025 02:01:22.547] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31May2025 02:03:30.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Ice Bucket Challenge]
+[31May2025 02:04:23.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has made the advancement [Isn't It Iron Pick]
+[31May2025 02:08:20.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[31May2025 02:11:06.846] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
