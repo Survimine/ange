@@ -3378,3 +3378,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31May2025 15:06:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Sweet Dreams]
 [31May2025 15:27:41.294] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [31May2025 15:33:58.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Voluntary Exile]
+[31May2025 15:40:03.244] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

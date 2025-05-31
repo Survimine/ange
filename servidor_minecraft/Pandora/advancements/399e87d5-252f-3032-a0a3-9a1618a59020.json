@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/zombie_leggings": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 15:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-31 15:02:58 +0000"
@@ -524,6 +530,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-31 15:33:54 +0000",
+      "minecraft:zombie": "2025-05-31 15:35:18 +0000",
       "minecraft:drowned": "2025-05-31 15:05:11 +0000"
     },
     "done": false
@@ -537,6 +545,12 @@
   "cfm:recipes/decorations/white_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-31 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-31 15:33:58 +0000"
     },
     "done": true
   },
@@ -675,6 +689,12 @@
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-05-31 15:02:48 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 15:35:19 +0000"
     },
     "done": true
   },
@@ -846,6 +866,12 @@
     },
     "done": true
   },
+  "overweight_farming:recipes/apply_violent_fullmetal_directly_to_compost": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 15:35:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-31 15:02:58 +0000"
@@ -879,6 +905,12 @@
   "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-05-31 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/jerky": {
+    "criteria": {
+      "has_raw_meat": "2025-05-31 15:35:19 +0000"
     },
     "done": true
   },
@@ -963,6 +995,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-05-31 15:21:49 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_boots": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 15:35:19 +0000"
     },
     "done": true
   },
@@ -1140,6 +1178,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 15:35:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-05-31 15:02:58 +0000"
@@ -1151,6 +1195,12 @@
       "has_iron_leggings": "2025-05-31 15:02:58 +0000"
     },
     "done": true
+  },
+  "pizzacraft:crops": {
+    "criteria": {
+      "tomato": "2025-05-31 15:41:43 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
@@ -1233,6 +1283,12 @@
   "undergarden:recipes/combat/slingshot": {
     "criteria": {
       "has_stick": "2025-05-31 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "infinity_cave:technical/hit_match/entity_hurt_player": {
+    "criteria": {
+      "requirement": "2025-05-31 15:33:52 +0000"
     },
     "done": true
   },
@@ -1338,6 +1394,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-31 15:37:58 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bow_boots": {
     "criteria": {
       "has_crossbow": "2025-05-31 15:02:58 +0000"
@@ -1347,6 +1409,12 @@
   "knightquest:recipes/misc/shield_leggings": {
     "criteria": {
       "has_shield": "2025-05-31 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/zombie_helmet2": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 15:35:19 +0000"
     },
     "done": true
   },
@@ -1488,6 +1556,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-05-31 15:37:58 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/acacia_brigg": {
     "criteria": {
       "in_water": "2025-05-31 15:02:48 +0000"
@@ -1530,6 +1604,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/zombie_chestplate": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 15:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-31 15:02:58 +0000"
@@ -1557,6 +1637,12 @@
   "undergarden:recipes/transportation/wigglewood_boat": {
     "criteria": {
       "in_water": "2025-05-31 15:02:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-05-31 15:37:58 +0000"
     },
     "done": true
   },
@@ -1809,6 +1895,12 @@
   "cfm:recipes/decorations/oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-05-31 15:02:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 15:35:19 +0000"
     },
     "done": true
   },
