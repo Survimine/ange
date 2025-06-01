@@ -258,6 +258,7 @@
       "minecraft:river": "2025-05-31 15:02:39 +0000",
       "minecraft:stony_shore": "2025-06-01 01:58:11 +0000",
       "minecraft:flower_forest": "2025-06-01 01:58:30 +0000",
+      "minecraft:meadow": "2025-06-01 02:51:55 +0000",
       "minecraft:plains": "2025-05-31 15:02:24 +0000"
     },
     "done": false
@@ -4329,11 +4330,89 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-01 03:00:41 +0000"
+    },
+    "done": false
+  },
   "better_armory_mod:better_armory_icon_adv": {
     "criteria": {
       "better_armory_icon_adv_0": "2025-06-01 02:30:01 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_ruined_building": "2025-06-01 02:52:15 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
@@ -4350,6 +4429,12 @@
   "hangglider:recipes/tools/hang_glider": {
     "criteria": {
       "has_glider_framework": "2025-06-01 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_ruined_building": "2025-06-01 02:52:15 +0000"
     },
     "done": true
   },
