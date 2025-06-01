@@ -3404,3 +3404,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 02:22:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [01Jun2025 02:22:28.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP Xavig20<--[HERE]
 [01Jun2025 02:22:46.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Xavig20 a server operator
+[01Jun2025 02:24:01.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xavig20: Set own game mode to Creative Mode]
+[01Jun2025 02:24:22.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Creative Mode]
+[01Jun2025 02:24:47.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved too quickly! 9.803847468063395,0.0,-4.010540848492951
+[01Jun2025 02:26:26.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved too quickly! 10.398882314423417,0.0,-3.229740463584676
+[01Jun2025 02:27:09.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xavig20: Set own game mode to Survival Mode]
+[01Jun2025 02:27:16.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 was slain by Kobold
+[01Jun2025 02:28:01.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has made the advancement [The Silence of the Forest]
+[01Jun2025 02:28:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 was slain by Kobold
+[01Jun2025 02:28:25.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved too quickly! -2889.2864466041283,-58.92159999847412,1178.213869692503
+[01Jun2025 02:29:14.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Xavig20> t
+[01Jun2025 02:29:57.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Survival Mode]
+[01Jun2025 02:30:10.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra moved too quickly! 0.9097390536776402,1.7531999805212024,-10.058140567801217
+[01Jun2025 02:30:10.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved too quickly! -5.9082684374629935,0.7967356006686916,-8.194731459570903
+[01Jun2025 02:30:10.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9514ms or 190 ticks behind

@@ -4329,6 +4329,12 @@
     },
     "done": true
   },
+  "better_armory_mod:better_armory_icon_adv": {
+    "criteria": {
+      "better_armory_icon_adv_0": "2025-06-01 02:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-06-01 02:01:00 +0000"
@@ -4350,6 +4356,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-06-01 01:59:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-06-01 02:20:22 +0000"
     },
     "done": true
   },
