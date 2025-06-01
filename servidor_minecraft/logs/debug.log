@@ -13445,3 +13445,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 01:50:46.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra joined the game
 [01Jun2025 01:50:46.163] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
 [01Jun2025 01:52:17.735] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[01Jun2025 01:53:01.915] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Jun2025 01:53:39.724] [Server thread/DEBUG] [mixin/]: Mixing alloc.explosion_behavior.EntityBasedExplosionDamageCalculatorMixin from canary.mixins.json into net.minecraft.world.level.EntityBasedExplosionDamageCalculator
+[01Jun2025 01:54:59.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[01Jun2025 01:54:59.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
+[01Jun2025 01:58:24.744] [Worker-Main-34/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jun2025 01:58:24.745] [Worker-Main-34/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jun2025 01:58:24.745] [Worker-Main-34/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[01Jun2025 01:58:25.797] [Worker-Main-47/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Jun2025 01:58:25.803] [Worker-Main-47/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Jun2025 01:58:25.803] [Worker-Main-47/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[01Jun2025 01:58:25.807] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[01Jun2025 01:58:25.807] [Worker-Main-47/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[01Jun2025 01:58:27.772] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[01Jun2025 01:58:27.772] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[01Jun2025 01:58:27.773] [Worker-Main-46/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[01Jun2025 01:59:59.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Nuevo mundo
+[01Jun2025 01:59:59.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Nuevo mundo
+[01Jun2025 02:01:18.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 died because of Diamond Golem
+[01Jun2025 02:01:20.296] [Server thread/DEBUG] [twilightforest/]: Player Xavig20 (d34f8f72-efd1-3726-a96a-dfaa3e6161af) respawned and received items held in storage
+[01Jun2025 02:01:31.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Jun2025 02:02:34.517] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Jun2025 02:02:41.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 was slain by Diamond Golem
+[01Jun2025 02:02:43.268] [Server thread/DEBUG] [twilightforest/]: Player Xavig20 (d34f8f72-efd1-3726-a96a-dfaa3e6161af) respawned and received items held in storage
