@@ -3418,3 +3418,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 02:30:10.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra moved too quickly! 0.9097390536776402,1.7531999805212024,-10.058140567801217
 [01Jun2025 02:30:10.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved too quickly! -5.9082684374629935,0.7967356006686916,-8.194731459570903
 [01Jun2025 02:30:10.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9514ms or 190 ticks behind
+[01Jun2025 02:38:39.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has reached the goal [Time To Even The Scales]
