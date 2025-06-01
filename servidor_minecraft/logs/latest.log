@@ -3368,3 +3368,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 21:42:19.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Mine? Mine? Mine?]
 [01Jun2025 21:49:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Crops of the Wild]
 [01Jun2025 21:56:03.296] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Jun2025 22:06:56.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra was slain by Beast Patient
+[01Jun2025 22:07:09.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Creative Mode]
+[01Jun2025 22:07:59.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Zeadra: Set own game mode to Survival Mode]
+[01Jun2025 22:11:05.597] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Jun2025 22:12:19.795] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Jun2025 22:19:19.185] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[01Jun2025 22:19:19.186] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[01Jun2025 22:19:19.186] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[01Jun2025 22:21:36.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-412, y=64, z=189} BlockPos{x=-413, y=63, z=188}
