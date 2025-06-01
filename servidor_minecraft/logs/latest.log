@@ -3365,3 +3365,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 21:35:06.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zeadra[/100.125.149.73:52039] logged in with entity id 180 at (-405.2839559879769, 69.0, 170.5619682046336)
 [01Jun2025 21:35:06.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra joined the game
 [01Jun2025 21:35:06.866] [Server thread/INFO] [Jade/]: Syncing config to Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020)
+[01Jun2025 21:42:19.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Mine? Mine? Mine?]
+[01Jun2025 21:49:20.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Crops of the Wild]

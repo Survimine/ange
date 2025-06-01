@@ -257,8 +257,10 @@
       "minecraft:sunflower_plains": "2025-06-01 01:59:39 +0000",
       "minecraft:river": "2025-05-31 15:02:39 +0000",
       "minecraft:stony_shore": "2025-06-01 01:58:11 +0000",
+      "minecraft:forest": "2025-06-01 21:41:54 +0000",
       "minecraft:flower_forest": "2025-06-01 01:58:30 +0000",
       "minecraft:meadow": "2025-06-01 02:51:55 +0000",
+      "minecraft:savanna": "2025-06-01 21:47:42 +0000",
       "minecraft:plains": "2025-05-31 15:02:24 +0000"
     },
     "done": false
@@ -1803,6 +1805,8 @@
     "criteria": {
       "minecraft:pillager": "2025-05-31 15:33:54 +0000",
       "minecraft:skeleton": "2025-06-01 03:21:19 +0000",
+      "minecraft:spider": "2025-06-01 21:43:29 +0000",
+      "minecraft:creeper": "2025-06-01 21:47:28 +0000",
       "minecraft:zombie": "2025-05-31 15:35:18 +0000",
       "minecraft:drowned": "2025-05-31 15:05:11 +0000"
     },
@@ -5320,6 +5324,24 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-06-01 04:11:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-06-01 21:49:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-06-01 21:49:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-01 21:42:19 +0000"
     },
     "done": true
   },
