@@ -3419,3 +3419,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 02:30:10.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved too quickly! -5.9082684374629935,0.7967356006686916,-8.194731459570903
 [01Jun2025 02:30:10.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9514ms or 190 ticks behind
 [01Jun2025 02:38:39.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xavig20 has reached the goal [Time To Even The Scales]
+[01Jun2025 02:47:17.900] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[01Jun2025 02:47:17.902] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[01Jun2025 02:47:17.903] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[01Jun2025 02:47:17.903] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[01Jun2025 02:47:25.816] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[01Jun2025 02:49:20.565] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Jun2025 02:49:28.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[01Jun2025 02:50:40.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xavig20 moved wrongly!
+[01Jun2025 02:51:11.422] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-51, y=-58, z=8}
+[01Jun2025 02:51:11.423] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-53, y=-58, z=8}
+[01Jun2025 02:51:11.423] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=3}
+[01Jun2025 02:51:11.424] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=3}
+[01Jun2025 02:51:11.425] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-49, y=-58, z=-1}
+[01Jun2025 02:51:11.425] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-55, y=-58, z=-1}
+[01Jun2025 02:52:02.580] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Adventurer'/106209, l='ServerLevel[Nuevo mundo]', x=-565.99, y=78.00, z=853.01] died, message: 'Adventurer was incinerated by Fire Dragon'
+[01Jun2025 02:52:24.593] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-58, z=9}
+[01Jun2025 02:52:24.593] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-25, y=-58, z=9}
+[01Jun2025 02:52:24.594] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=0}
+[01Jun2025 02:52:24.594] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=0}
+[01Jun2025 02:52:24.594] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-21, y=-58, z=4}
+[01Jun2025 02:52:24.595] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-58, z=4}
+[01Jun2025 02:52:46.631] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-68, y=-58, z=9}
+[01Jun2025 02:52:46.632] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-70, y=-58, z=9}
+[01Jun2025 02:52:46.632] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=0}
+[01Jun2025 02:52:46.632] [Worker-Main-34/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-66, y=-58, z=4}
+[01Jun2025 02:53:05.743] [Worker-Main-46/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
