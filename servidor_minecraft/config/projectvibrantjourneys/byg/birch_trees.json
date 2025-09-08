@@ -1,10 +1,6 @@
 [
   {
-    "biomeName": "byg:howling_peaks",
-    "chance": 5
-  },
-  {
-    "biomeName": "byg:autumnal_forest",
+    "biomeName": "byg:borealis_grove",
     "chance": 10
   },
   {
@@ -12,7 +8,11 @@
     "chance": 10
   },
   {
-    "biomeName": "byg:borealis_grove",
+    "biomeName": "byg:autumnal_forest",
     "chance": 10
+  },
+  {
+    "biomeName": "byg:howling_peaks",
+    "chance": 5
   }
 ]
