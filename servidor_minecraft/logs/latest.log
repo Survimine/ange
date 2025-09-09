@@ -12430,3 +12430,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Sep2025 02:45:56.203] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [09Sep2025 02:50:46.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Isn't It Iron Pick]
 [09Sep2025 02:50:46.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09Sep2025 03:06:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Monster Hunter]
