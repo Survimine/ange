@@ -23214,3 +23214,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Sep2025 03:06:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Monster Hunter]
 [09Sep2025 03:07:05.535] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
 [09Sep2025 03:07:05.567] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[09Sep2025 03:11:57.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Disconnected
+[09Sep2025 03:11:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[09Sep2025 03:11:57.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Sep2025 03:12:05.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[09Sep2025 03:12:05.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[09Sep2025 03:12:28.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09Sep2025 03:13:26.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Disconnected
+[09Sep2025 03:13:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
+[09Sep2025 03:17:05.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[09Sep2025 03:17:05.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora

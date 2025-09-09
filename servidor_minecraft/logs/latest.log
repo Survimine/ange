@@ -12431,3 +12431,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [09Sep2025 02:50:46.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Isn't It Iron Pick]
 [09Sep2025 02:50:46.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [09Sep2025 03:06:10.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 has made the advancement [Monster Hunter]
+[09Sep2025 03:11:57.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zeadra lost connection: Disconnected
+[09Sep2025 03:11:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra left the game
+[09Sep2025 03:11:57.814] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Sep2025 03:12:28.503] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[09Sep2025 03:13:26.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelitrona12 lost connection: Disconnected
+[09Sep2025 03:13:26.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 left the game
