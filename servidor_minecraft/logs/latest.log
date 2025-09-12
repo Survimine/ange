@@ -3977,3 +3977,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Sep2025 02:03:18.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Suit Up]
 [12Sep2025 02:03:21.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra has made the advancement [Ice Bucket Challenge]
 [12Sep2025 02:09:53.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra blew up
+[12Sep2025 02:16:28.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=62, z=276} BlockPos{x=173, y=61, z=276}
+[12Sep2025 02:17:18.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 was slain by Tiger

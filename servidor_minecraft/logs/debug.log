@@ -13783,3 +13783,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [12Sep2025 02:09:10.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
 [12Sep2025 02:09:53.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zeadra blew up
 [12Sep2025 02:10:23.613] [Server thread/DEBUG] [twilightforest/]: Player Zeadra (399e87d5-252f-3032-a0a3-9a1618a59020) respawned and received items held in storage
+[12Sep2025 02:14:10.643] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[12Sep2025 02:14:10.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
+[12Sep2025 02:16:27.863] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[12Sep2025 02:16:28.213] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[12Sep2025 02:16:28.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=174, y=62, z=276} BlockPos{x=173, y=61, z=276}
+[12Sep2025 02:16:32.576] [Server thread/DEBUG] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: Skipped placing feature (block.minecraft.water) [respectsCutoff: false]
+[12Sep2025 02:17:18.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelitrona12 was slain by Tiger
+[12Sep2025 02:17:20.624] [Server thread/DEBUG] [twilightforest/]: Player Angelitrona12 (01f0612d-e314-32a0-89a0-b6e3fd6d644b) respawned and received items held in storage
+[12Sep2025 02:19:10.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Pandora
+[12Sep2025 02:19:10.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Pandora
